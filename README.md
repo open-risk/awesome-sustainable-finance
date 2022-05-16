@@ -15,9 +15,11 @@ A curated list of sustainable finance resources (software, data)
 - [Open Data](#open-data)
 - [Related](#related)
 
-As the list grows we might introduce sub-categories
+As the list grows we might introduce more sub-categories
 
 ## Open Source Frameworks
+
+### Climate Finance
 
 - [PACTA](https://github.com/2DegreesInvesting/PACTA_analysis) - Run the PACTA analysis on EQ & CB portfolios
 - [r2dii.analysis](https://github.com/2DegreesInvesting/r2dii.analysis) - Tools to Calculate Climate Targets for Financial Portfolios 
@@ -27,6 +29,9 @@ As the list grows we might introduce sub-categories
 - [OS-Climate](https://github.com/os-climate) - Open Source Solutions to Enable Climate-Smart Investing
 - [blockchain-carbon-accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting) - This project implements blockchain applications for climate action and accounting, including emissions calculations, carbon trading, and validation of climate claims. It is part of the Linux Foundation's Hyperledger Climate Action and Accounting SIG. 
 
+### Financial Inclusion
+
+- [Fineract](https://github.com/apache/fineract/) - Apache Fineract: A Platform for Microfinance
 
 
 ## Open Data
