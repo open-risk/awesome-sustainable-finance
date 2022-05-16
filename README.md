@@ -1,5 +1,5 @@
 # awesome-sustainable-finance
-A curated list of sustainable finance resources (software, data)
+A curated list of sustainable finance resources (software, data and more)
 
 ## Notes
 - The focus of the list is 1) on code (open source tools, libraries, frameworks etc) that fairly directly supports any type of sustainable finance effort and 2) open data that are useful in a sustainable finance context. 
@@ -26,6 +26,7 @@ As the list grows we might introduce more sub-categories
 - [SBTi Temperature Alignment tool](https://github.com/ScienceBasedTargets/SBTi-finance-tool) - This toolkit helps companies and financial institutions to assess the temperature alignment of current targets, commitments, and investment and lending portfolios, and to use this information to develop targets for official validation by the SBTi.
 - [pymrio](https://github.com/konstantinstadler/pymrio) - Multi-Regional Input-Output Analysis in Python
 - [pyLCAIO](https://github.com/MaximeAgez/pylcaio) - A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases.
+- [Equinox](https://github.com/open-risk/equinox) - Equinox is an open source platform that supports the holistic risk management of sustainable finance projects
 - [OS-Climate](https://github.com/os-climate) - Open Source Solutions to Enable Climate-Smart Investing
 - [blockchain-carbon-accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting) - This project implements blockchain applications for climate action and accounting, including emissions calculations, carbon trading, and validation of climate claims. It is part of the Linux Foundation's Hyperledger Climate Action and Accounting SIG. 
 
@@ -36,6 +37,8 @@ As the list grows we might introduce more sub-categories
 
 ## Open Data
 
+- [EDGAR](https://edgar.jrc.ec.europa.eu/dataset_ghg60#intro) - Emissions Database for Global Atmospheric Research
+- [European Environment Agency](https://data.europa.eu/data/datasets/dat-2-en?locale=en) - EU Member States' greenhouse gas (GHG) emission projections
 - [SDG Data Repository (UK)](https://github.com/ONSdigital/sdg-data) - Data repository for SDGs 
 - [electricityMap](https://github.com/electricitymap/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption 
 - [GHG Data](https://github.com/sphericalpm/ghgdata) - Greenhouse gas emissions data packaged for easy exploration and charting 
