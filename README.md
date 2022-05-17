@@ -41,7 +41,8 @@ As the list grows we might introduce more sub-categories
 - [European Environment Agency](https://data.europa.eu/data/datasets/dat-2-en?locale=en) - EU Member States' greenhouse gas (GHG) emission projections
 - [SDG Data Repository (UK)](https://github.com/ONSdigital/sdg-data) - Data repository for SDGs 
 - [electricityMap](https://github.com/electricitymap/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption 
-- [GHG Data](https://github.com/sphericalpm/ghgdata) - Greenhouse gas emissions data packaged for easy exploration and charting 
+- [GHG Data](https://github.com/sphericalpm/ghgdata) - Greenhouse gas emissions data packaged for easy exploration and charting
+- [EFDB](https://www.ipcc-nggip.iges.or.jp/EFDB/downloads.php) IPCC Emission Factor Database (offline versions for MS,Apple,Linux)
 
 ## Related
 
