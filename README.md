@@ -12,6 +12,9 @@ A curated list of sustainable finance resources (software, data and more)
 ## Contents
 
 - [Open Source Frameworks](#open-source-frameworks)
+  - [Climate Finance](#climate-finance)
+  - [Carbon-Footprint](#carbon-footprint)
+  - [Financial Inclusion](#financial-inclusion)   
 - [Open Data](#open-data)
 - [Related](#related)
 
@@ -23,12 +26,17 @@ As the list grows we might introduce more sub-categories
 
 - [PACTA](https://github.com/2DegreesInvesting/PACTA_analysis) - Run the PACTA analysis on EQ & CB portfolios
 - [r2dii.analysis](https://github.com/2DegreesInvesting/r2dii.analysis) - Tools to Calculate Climate Targets for Financial Portfolios 
-- [SBTi Temperature Alignment tool](https://github.com/ScienceBasedTargets/SBTi-finance-tool) - This toolkit helps companies and financial institutions to assess the temperature alignment of current targets, commitments, and investment and lending portfolios, and to use this information to develop targets for official validation by the SBTi.
-- [pymrio](https://github.com/konstantinstadler/pymrio) - Multi-Regional Input-Output Analysis in Python
-- [pyLCAIO](https://github.com/MaximeAgez/pylcaio) - A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases.
+- [SBTi Temperature Alignment tool](https://github.com/ScienceBasedTargets/SBTi-finance-tool) - This toolkit helps companies and financial institutions to assess the temperature alignment of current targets, commitments, and investment and lending portfolios, and to use this information to develop targets for official validation by the SBTi
 - [Equinox](https://github.com/open-risk/equinox) - Equinox is an open source platform that supports the holistic risk management of sustainable finance projects
 - [OS-Climate](https://github.com/os-climate) - Open Source Solutions to Enable Climate-Smart Investing
-- [blockchain-carbon-accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting) - This project implements blockchain applications for climate action and accounting, including emissions calculations, carbon trading, and validation of climate claims. It is part of the Linux Foundation's Hyperledger Climate Action and Accounting SIG. 
+- [blockchain-carbon-accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting) - This project implements blockchain applications for climate action and accounting, including emissions calculations, carbon trading, and validation of climate claims. It is part of the Linux Foundation's Hyperledger Climate Action and Accounting SIG
+
+### Carbon Footprint
+
+- [pymrio](https://github.com/konstantinstadler/pymrio) - Multi-Regional Input-Output Analysis in Python
+- [pyLCAIO](https://github.com/MaximeAgez/pylcaio) - A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases
+- [Scafandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent
+- [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage
 
 ### Financial Inclusion
 
@@ -42,11 +50,12 @@ As the list grows we might introduce more sub-categories
 - [SDG Data Repository (UK)](https://github.com/ONSdigital/sdg-data) - Data repository for SDGs 
 - [electricityMap](https://github.com/electricitymap/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption 
 - [GHG Data](https://github.com/sphericalpm/ghgdata) - Greenhouse gas emissions data packaged for easy exploration and charting
-- [EFDB](https://www.ipcc-nggip.iges.or.jp/EFDB/downloads.php) IPCC Emission Factor Database (offline versions for MS,Apple,Linux)
+- [EFDB](https://www.ipcc-nggip.iges.or.jp/EFDB/downloads.php) - IPCC Emission Factor Database (offline versions for MS,Apple,Linux)
 
 ## Related
 
-Other awesome lists that are relevant for sustainable finance
+Other awesome lists / resources that are more indirectly relevant for sustainable finance
 
-- [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology#carbon-intensity-and-accounting) - A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources. 
+- [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology#carbon-intensity-and-accounting) - A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources
 - [Industrial Ecology Dashboard](https://github.com/IndEcol/Dashboard) - A collection of open source projects relevant for industrial ecology practitioners, hosted on GitHub and beyond
+- [Climate Modeling](https://github.com/brian-rose/climlab) - Python package for process-oriented climate modeling 
