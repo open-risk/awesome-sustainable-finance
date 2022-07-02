@@ -14,6 +14,7 @@ A curated list of sustainable finance resources (software, data and more)
 - [Open Source Frameworks](#open-source-frameworks)
   - [Climate Finance](#climate-finance)
   - [Carbon-Footprint](#carbon-footprint)
+  - [Integrated Assessment Models](#integrated-assessment-models)
   - [Financial Inclusion](#financial-inclusion)   
 - [Open Data](#open-data)
 - [Related](#related)
@@ -38,6 +39,15 @@ As the list grows we might introduce more sub-categories
 - [Scafandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent
 - [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage
 
+### Integrated Assessment Models
+
+- [mimi](https://github.com/mimiframework/Mimi.jl) - Mimi is a Julia package that provides a component model for integrated assessment models
+- [MessageIX](https://github.com/iiasa/message_ix) - MESSAGEix is a versatile, dynamic, model framework for energy-engineering-economy-environment (E4) systems research.
+- [premise](https://github.com/polca/premise) - PRospective EnvironMental Impact AsSEssment. Coupling the ecoinvent database with projections from Integrated Assessment Models (IAM)
+- [DICE](https://github.com/psztorc/DICE) - Dynamic Integrated Climate-Economy Model of the Economics of Global Warming
+- [python-DICE](https://github.com/Shivamshaiv/Python-DICE) - Python 3.6 implementation of Dynamic Integrated Climate-Economy (DICE)
+
+
 ### Financial Inclusion
 
 - [Fineract](https://github.com/apache/fineract/) - Apache Fineract: A Platform for Microfinance
@@ -45,14 +55,22 @@ As the list grows we might introduce more sub-categories
 
 ## Open Data
 
+### Emissions
+
 - [EDGAR](https://edgar.jrc.ec.europa.eu/dataset_ghg60#intro) - Emissions Database for Global Atmospheric Research
 - [European Environment Agency](https://data.europa.eu/data/datasets/dat-2-en?locale=en) - EU Member States' greenhouse gas (GHG) emission projections
-- [SDG Data Repository (UK)](https://github.com/ONSdigital/sdg-data) - Data repository for SDGs 
-- [electricityMap](https://github.com/electricitymap/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
-   - [electricityMap Data Sources](https://github.com/electricitymap/electricitymap-contrib/blob/master/DATA_SOURCES.md)
 - [GHG Data](https://github.com/sphericalpm/ghgdata) - Greenhouse gas emissions data packaged for easy exploration and charting
 - [EFDB](https://www.ipcc-nggip.iges.or.jp/EFDB/downloads.php) - IPCC Emission Factor Database (offline versions for MS,Apple,Linux)
+
+### Energy
+
 - [GEM](https://www.gem.wiki/Main_Page) - GEM Wiki, the shared resource on all things energy: fossil fuels, renewable energy sources, environmental impacts, and the global movement to transition to a clean energy system
+- [electricityMap](https://github.com/electricitymap/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
+  - [electricityMap Data Sources](https://github.com/electricitymap/electricitymap-contrib/blob/master/DATA_SOURCES.md)
+  
+### General
+
+- [SDG Data Repository (UK)](https://github.com/ONSdigital/sdg-data) - Data repository for SDGs
 
 ## Related
 
