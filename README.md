@@ -46,6 +46,7 @@ As the list grows we might introduce more sub-categories
 - [premise](https://github.com/polca/premise) - PRospective EnvironMental Impact AsSEssment. Coupling the ecoinvent database with projections from Integrated Assessment Models (IAM)
 - [DICE](https://github.com/psztorc/DICE) - Dynamic Integrated Climate-Economy Model of the Economics of Global Warming
 - [python-DICE](https://github.com/Shivamshaiv/Python-DICE) - Python 3.6 implementation of Dynamic Integrated Climate-Economy (DICE)
+- [WITCH](https://github.com/witch-team/witchmodel) - World Induced Technical Change Hybrid model
 
 
 ### Financial Inclusion
