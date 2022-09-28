@@ -79,4 +79,5 @@ Other awesome lists / resources that are more indirectly relevant for sustainabl
 
 - [Open Sustainable Technology](https://github.com/protontypes/open-sustainable-technology#carbon-intensity-and-accounting) - A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources
 - [Industrial Ecology Dashboard](https://github.com/IndEcol/Dashboard) - A collection of open source projects relevant for industrial ecology practitioners, hosted on GitHub and beyond
-- [Climate Modeling](https://github.com/brian-rose/climlab) - Python package for process-oriented climate modeling 
+- [Climate Modeling](https://github.com/brian-rose/climlab) - Python package for process-oriented climate modeling
+- [NTNU Course](https://github.com/iiasa/ntnu_iam_2022) - NTNU Integrated Assessment Modelling Course (2022)
