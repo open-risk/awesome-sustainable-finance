@@ -39,6 +39,10 @@ As the list grows we might introduce more sub-categories
 - [Scafandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent
 - [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage
 
+### Circular Economy
+
+- [pycirk](https://bitbucket.org/CML-IE/pycirk/src/master/) - A python package to model Circular Economy policy and technological interventions in Environmentally Extended Input-Output Analysis starting from SUTs
+
 ### Integrated Assessment Models
 
 - [mimi](https://github.com/mimiframework/Mimi.jl) - Mimi is a Julia package that provides a component model for integrated assessment models
