@@ -1,4 +1,4 @@
-# awesome-sustainable-finance
+# awesome sustainable finance
 A curated list of sustainable finance resources (software, data and more)
 
 ## Notes
@@ -13,7 +13,7 @@ A curated list of sustainable finance resources (software, data and more)
 
 - [Open Source Frameworks](#open-source-frameworks)
   - [Climate Finance](#climate-finance)
-  - [Carbon-Footprint](#carbon-footprint)
+  - [Carbon Footprint](#carbon-footprint)
   - [Integrated Assessment Models](#integrated-assessment-models)
   - [Financial Inclusion](#financial-inclusion)   
 - [Open Data](#open-data)
