@@ -51,6 +51,9 @@ As the list grows we might introduce more sub-categories
 - [DICE](https://github.com/psztorc/DICE) - Dynamic Integrated Climate-Economy Model of the Economics of Global Warming
 - [python-DICE](https://github.com/Shivamshaiv/Python-DICE) - Python 3.6 implementation of Dynamic Integrated Climate-Economy (DICE)
 - [WITCH](https://github.com/witch-team/witchmodel) - World Induced Technical Change Hybrid model
+- [pyam](https://github.com/IAMconsortium/pyam) - Analysis & visualization of integrated-assessment and macro-energy scenarios
+- [nomenclature](https://github.com/IAMconsortium/nomenclature) - Working with IAMC-format project definitions
+- [IAMC Tools](https://github.com/IAMconsortium/iamc) - A collection of R tools for data analysis and diagnostics.
 
 
 ### Financial Inclusion
