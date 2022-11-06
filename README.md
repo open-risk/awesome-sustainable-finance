@@ -88,3 +88,4 @@ Other awesome lists / resources that are more indirectly relevant for sustainabl
 - [Industrial Ecology Dashboard](https://github.com/IndEcol/Dashboard) - A collection of open source projects relevant for industrial ecology practitioners, hosted on GitHub and beyond
 - [Climate Modeling](https://github.com/brian-rose/climlab) - Python package for process-oriented climate modeling
 - [NTNU Course](https://github.com/iiasa/ntnu_iam_2022) - NTNU Integrated Assessment Modelling Course (2022)
+- [climate econometrics](https://github.com/atrisovic/weather-panel.github.io/) - This is a repository for a practical guide to climate econometrics available at climateestimate.net
