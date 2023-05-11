@@ -14,16 +14,19 @@ A curated list of sustainable finance resources (software, data and more)
 - [Open Source Frameworks](#open-source-frameworks)
   - [Climate Finance](#climate-finance)
   - [Carbon Footprint](#carbon-footprint)
+  - [Circular Economy](#circular-economy)
   - [Integrated Assessment Models](#integrated-assessment-models)
-  - [Financial Inclusion](#financial-inclusion)   
+  - [Social Finance](#social-finance)   
 - [Open Data](#open-data)
-- [Related](#related)
+- [Related Domains](#related-domains)
 
-As the list grows we might introduce more sub-categories
+As the list grows we may introduce more sub-categories
 
 ## Open Source Frameworks
 
 ### Climate Finance
+
+Frameworks that are directly assisting the analysis of financial operations (transactions, portfolios of contracts) from a climate finance perspective
 
 - [PACTA](https://github.com/2DegreesInvesting/PACTA_analysis) - Run the PACTA analysis on EQ & CB portfolios
 - [r2dii.analysis](https://github.com/2DegreesInvesting/r2dii.analysis) - Tools to Calculate Climate Targets for Financial Portfolios 
@@ -34,6 +37,8 @@ As the list grows we might introduce more sub-categories
 
 ### Carbon Footprint
 
+Frameworks that are indirectly supporting climate finance through input-output analysis of economic systems
+
 - [pymrio](https://github.com/konstantinstadler/pymrio) - Multi-Regional Input-Output Analysis in Python
 - [pyLCAIO](https://github.com/MaximeAgez/pylcaio) - A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases
 - [Scafandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent
@@ -41,9 +46,14 @@ As the list grows we might introduce more sub-categories
 
 ### Circular Economy
 
+Frameworks that indirectly support sustainable finance by help track material flows.
+
 - [pycirk](https://bitbucket.org/CML-IE/pycirk/src/master/) - A python package to model Circular Economy policy and technological interventions in Environmentally Extended Input-Output Analysis starting from SUTs
+- [ODYM](https://github.com/IndEcol/ODYM) - Open Dynamic Material Systems Model 
 
 ### Integrated Assessment Models
+
+Integrated economic models (for macro scenarios) 
 
 - [mimi](https://github.com/mimiframework/Mimi.jl) - Mimi is a Julia package that provides a component model for integrated assessment models
 - [MessageIX](https://github.com/iiasa/message_ix) - MESSAGEix is a versatile, dynamic, model framework for energy-engineering-economy-environment (E4) systems research.
@@ -56,7 +66,9 @@ As the list grows we might introduce more sub-categories
 - [IAMC Tools](https://github.com/IAMconsortium/iamc) - A collection of R tools for data analysis and diagnostics.
 
 
-### Financial Inclusion
+### Social Finance
+
+Frameworks and tools that support the social pillar of ESG, e.g. through financial inclusion
 
 - [Fineract](https://github.com/apache/fineract/) - Apache Fineract: A Platform for Microfinance
 
@@ -80,7 +92,7 @@ As the list grows we might introduce more sub-categories
 
 - [SDG Data Repository (UK)](https://github.com/ONSdigital/sdg-data) - Data repository for SDGs
 
-## Related
+## Related Domains
 
 Other awesome lists / resources that are more indirectly relevant for sustainable finance
 
