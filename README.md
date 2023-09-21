@@ -1,15 +1,28 @@
-# awesome sustainable finance
-A curated list of sustainable finance resources (software, data and more)
+# Awesome Sustainable Finance
+
+A curated list of sustainable finance resources. The focus of the list is on code (tools, libraries, frameworks etc.) that fairly directly support any type of sustainable finance effort and open data that are useful in a sustainable finance context.
+
+![Solarpunk Flag](./Solarpunk_Flag.png)
+
+Image Credit: StarwallOfRadical.town, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
+
+## How to Contribute
+
+- If you want to add your project simply create a PR.
+- If you want to nominate a project but do not have a GitHub account you can also point to relevant resources either:
+  - at the [Sustainable Finance Subreddit](https://www.reddit.com/r/sustainableFinance/)
+  - at our [Mastodon Account](https://mastodon.social/@openrisk)
 
 ## Notes
-- The focus of the list is 1) on code (open source tools, libraries, frameworks etc) that fairly directly supports any type of sustainable finance effort and 2) open data that are useful in a sustainable finance context. 
-- The inclusion and classification is not meant to be rigorous as sometimes projects i) provide both code and data and ii) have wider sustainability objectives. 
-- If you want to add your project simply create a PR. If you want to nominate a project but do not have a github account you can also indicate it at the [Sustainable Finance Subreddit](https://www.reddit.com/r/sustainableFinance/)
-- Preference to link to self-contained repositories (not accounts or web-pages) but if needed accomodate
-- No powerpoints or pdf's
-- Projects in alpha are welcome but no placeholders
+
+- The inclusion and classification of projects in different categories is not meant to be rigorous. Projects provide sometimes both code and data and may have wider or overlapping sustainability objectives.
+- The preference is to link directly to openly accessible and self-contained repositories (not accounts or web-pages) but if there are special circumstances will accommodate.
+- The list does not include powerpoints or pdf's.
+- Projects in alpha phase are welcome but not if they are still simply placeholders.
 
 ## Contents
+
+As the list grows we may introduce more / different sub-categories. The current 
 
 - [Open Source Frameworks](#open-source-frameworks)
   - [Climate Finance](#climate-finance)
@@ -19,8 +32,6 @@ A curated list of sustainable finance resources (software, data and more)
   - [Social Finance](#social-finance)   
 - [Open Data](#open-data)
 - [Related Domains](#related-domains)
-
-As the list grows we may introduce more sub-categories
 
 ## Open Source Frameworks
 
@@ -66,13 +77,11 @@ Integrated economic models (for macro scenarios)
 - [nomenclature](https://github.com/IAMconsortium/nomenclature) - Working with IAMC-format project definitions
 - [IAMC Tools](https://github.com/IAMconsortium/iamc) - A collection of R tools for data analysis and diagnostics.
 
-
 ### Social Finance
 
 Frameworks and tools that support the social pillar of ESG, e.g. through financial inclusion
 
 - [Fineract](https://github.com/apache/fineract/) - Apache Fineract: A Platform for Microfinance
-
 
 ## Open Data
 
