@@ -46,10 +46,11 @@ Frameworks that are indirectly supporting climate finance through input-output a
 
 ### Circular Economy
 
-Frameworks that indirectly support sustainable finance by help track material flows.
+Frameworks that indirectly support sustainable finance by helping track material flows.
 
 - [pycirk](https://bitbucket.org/CML-IE/pycirk/src/master/) - A python package to model Circular Economy policy and technological interventions in Environmentally Extended Input-Output Analysis starting from SUTs
-- [ODYM](https://github.com/IndEcol/ODYM) - Open Dynamic Material Systems Model 
+- [ODYM](https://github.com/IndEcol/ODYM) - Open Dynamic Material Systems Model
+- [brightway-lca](https://github.com/brightway-lca/brightway2) - Brightway2 is a framework for advanced life cycle assessment calculations. 
 
 ### Integrated Assessment Models
 
