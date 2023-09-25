@@ -10,6 +10,7 @@ Image Credit: StarwallOfRadical.town, [CC BY-SA 4.0](https://creativecommons.org
 
 - If you want to add your project simply create a PR.
 - If you want to nominate a project but do not have a GitHub account you can also point to relevant resources either:
+  - at the [Open Risk Commons](https://www.openriskcommons.org/t/awesome-sustainable-finace/159) 
   - at the [Sustainable Finance Subreddit](https://www.reddit.com/r/sustainableFinance/)
   - at our [Mastodon Account](https://mastodon.social/@openrisk)
 
