@@ -6,7 +6,7 @@ A curated list of sustainable finance resources. The focus of the list is on cod
 
 Image Credit: StarwallOfRadical.town, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
 
-
+[How To Contribute](CONTRIBUTING.md)
 
 ## Contents
 
