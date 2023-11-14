@@ -36,12 +36,13 @@ Frameworks that are directly assisting the analysis of financial operations (tra
 
 ### Carbon Footprint
 
-Frameworks that are indirectly supporting climate finance through input-output analysis of economic systems
+Frameworks that are indirectly supporting climate finance through environmentally extended input-output analysis of economic systems
 
 - [pymrio](https://github.com/konstantinstadler/pymrio) - Multi-Regional Input-Output Analysis in Python
 - [pyLCAIO](https://github.com/MaximeAgez/pylcaio) - A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases
 - [Scafandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent
 - [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage
+- [US EEIO](https://github.com/USEPA/useeior) - An R package for building and using USEEIO models.
 
 ### Circular Economy
 
