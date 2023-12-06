@@ -42,8 +42,10 @@ Frameworks that are indirectly supporting climate finance through environmentall
 - [pyLCAIO](https://github.com/MaximeAgez/pylcaio) - A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases
 - [Scafandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent
 - [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage
-- [US EEIO](https://github.com/USEPA/useeior) - An R package for building and using USEEIO models.
+- [US EEIO](https://github.com/USEPA/useeior) - An R package for building and using USEEIO models
 - [Node Carbon](https://github.com/sumn2u/node-carbon) - A Node Package for Measuring Carbon Footprints
+- [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) - A data utility for tracking climate action
+- [CityCatalyst](https://github.com/Open-Earth-Foundation/CityCatalyst) - Open Source carbon accounting for cities
 
 ### Circular Economy
 
