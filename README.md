@@ -63,6 +63,7 @@ Integrated economic models (for macro scenarios)
 - [MessageIX](https://github.com/iiasa/message_ix) - MESSAGEix is a versatile, dynamic, model framework for energy-engineering-economy-environment (E4) systems research.
 - [premise](https://github.com/polca/premise) - PRospective EnvironMental Impact AsSEssment. Coupling the ecoinvent database with projections from Integrated Assessment Models (IAM)
 - [DICE](https://github.com/psztorc/DICE) - Dynamic Integrated Climate-Economy Model of the Economics of Global Warming
+- [DICE++](https://github.com/swillner/dicepp) - C++-Implementation of the DICE Dynamic Integrated Climate-Economy Model of the Economics of Global Warming
 - [python-DICE](https://github.com/Shivamshaiv/Python-DICE) - Python 3.6 implementation of Dynamic Integrated Climate-Economy (DICE)
 - [WITCH](https://github.com/witch-team/witchmodel) - World Induced Technical Change Hybrid model
 - [pyam](https://github.com/IAMconsortium/pyam) - Analysis & visualization of integrated-assessment and macro-energy scenarios
