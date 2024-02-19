@@ -34,12 +34,12 @@ Frameworks that are directly assisting the analysis of financial operations (tra
 - [OS-Climate](https://github.com/os-climate) - Open Source Solutions to Enable Climate-Smart Investing
 - [blockchain-carbon-accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting) - This project implements blockchain applications for climate action and accounting, including emissions calculations, carbon trading, and validation of climate claims. It is part of the Linux Foundation's Hyperledger Climate Action and Accounting SIG
 
-### Carbon Footprint
+### Carbon Footprint via EEIO or LCA Models
 
 Frameworks that are indirectly supporting climate finance through environmentally extended input-output analysis of economic systems
 
 - [pymrio](https://github.com/konstantinstadler/pymrio) - Multi-Regional Input-Output Analysis in Python
-- [PyIO] - (Python Module for Input-Output Analysis)
+- [PyIO](https://real.illinois.edu/pyio/) - (Python Module for Input-Output Analysis)
 - [pyLCAIO](https://github.com/MaximeAgez/pylcaio) - A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases
 - [Scafandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent
 - [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage
@@ -49,7 +49,7 @@ Frameworks that are indirectly supporting climate finance through environmentall
 - [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) - A data utility for tracking climate action
 - [CityCatalyst](https://github.com/Open-Earth-Foundation/CityCatalyst) - Open Source carbon accounting for cities
 
-### Circular Economy
+### Circular Economy Models
 
 Frameworks that indirectly support sustainable finance by helping track material flows.
 
@@ -74,13 +74,13 @@ Integrated economic models (for macro scenarios)
 
 ### Social Finance
 
-Frameworks and tools that support the social pillar of ESG, e.g. through financial inclusion
+Frameworks and tools that support the social pillar of ESG, e.g. through financial inclusion tools and infrastructure
 
 - [Fineract](https://github.com/apache/fineract/) - Apache Fineract: A Platform for Microfinance
 
 ## Open Data
 
-### Emissions
+### GHG Emissions
 
 - [EDGAR](https://edgar.jrc.ec.europa.eu/dataset_ghg60#intro) - Emissions Database for Global Atmospheric Research
 - [European Environment Agency](https://data.europa.eu/data/datasets/dat-2-en?locale=en) - EU Member States' greenhouse gas (GHG) emission projections
@@ -88,14 +88,14 @@ Frameworks and tools that support the social pillar of ESG, e.g. through financi
 - [EFDB](https://www.ipcc-nggip.iges.or.jp/EFDB/downloads.php) - IPCC Emission Factor Database (offline versions for MS,Apple,Linux)
 - [ipcc](https://gitlab.com/bonsamurais/bonsai/util/ipcc) - U  tility functions to calculate greenhouse gas inventories based on IPCC Guidelines for National Greenhouse Gas Inventories
 
-### Energy
+### Energy System
 
 - [GEM](https://www.gem.wiki/Main_Page) - GEM Wiki, the shared resource on all things energy: fossil fuels, renewable energy sources, environmental impacts, and the global movement to transition to a clean energy system
 - [electricityMap](https://github.com/electricitymap/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
   - [electricityMap Data Sources](https://github.com/electricitymap/electricitymap-contrib/blob/master/DATA_SOURCES.md)
 - [ETHOS.FINE](https://github.com/FZJ-IEK3-VSA/FINE) - Framework for Integrated Energy System Assessment
 - 
-### General
+### General Sustainability Data
 
 - [SDG Data Repository (UK)](https://github.com/ONSdigital/sdg-data) - Data repository for SDGs
 
