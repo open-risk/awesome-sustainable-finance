@@ -86,6 +86,7 @@ Frameworks and tools that support the social pillar of ESG, e.g. through financi
 #### Financial Inclusion
 
 - [Fineract](https://github.com/apache/fineract/) - Apache Fineract: A Platform for Microfinance
+- [mojaloop](https://github.com/mojaloop) - Open source software for creating payment platforms that will help unbanked people access digital financial services. 
 
 #### Financial Literacy
 
