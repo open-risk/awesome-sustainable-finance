@@ -10,22 +10,27 @@ Image Credit: StarwallOfRadical.town, [CC BY-SA 4.0](https://creativecommons.org
 
 ## Contents
 
-As the list grows we may introduce more / different sub-categories. The current classification is as follows
+As the list grows we may introduce more / different sub-categories. The current classification is as follows:
 
 - [Open Source Frameworks](#open-source-frameworks)
   - [Climate Finance](#climate-finance)
   - [Carbon Footprint](#carbon-footprint)
   - [Circular Economy](#circular-economy)
   - [Integrated Assessment Models](#integrated-assessment-models)
-  - [Social Finance](#social-finance)   
+  - [Social Finance](#social-finance)
+    - [Financial Inclusion](#financial-inclusion)
+    - [Financial Literacy](#financial-literacy)
 - [Open Data](#open-data)
+  - [GHG Emissions](#ghg-emissions)
+  - [Energy System](#energy-system)
+  - [Other Sustainability Data](#other-sustainability-data)
 - [Related Domains](#related-domains)
 
 ## Open Source Frameworks
 
 ### Climate Finance
 
-Frameworks that are directly assisting the analysis of financial operations (transactions, portfolios of contracts) from a climate finance perspective
+Frameworks and tools that are *directly* assisting the analysis of financial operations (e.g., transactions, securities, portfolios of contracts etc.) from a climate finance perspective
 
 - [PACTA](https://github.com/2DegreesInvesting/PACTA_analysis) - Run the PACTA analysis on EQ & CB portfolios
 - [r2dii.analysis](https://github.com/2DegreesInvesting/r2dii.analysis) - Tools to Calculate Climate Targets for Financial Portfolios 
@@ -36,7 +41,7 @@ Frameworks that are directly assisting the analysis of financial operations (tra
 
 ### Carbon Footprint via EEIO or LCA Models
 
-Frameworks that are indirectly supporting climate finance through environmentally extended input-output analysis of economic systems
+Frameworks that are *indirectly* supporting climate finance through environmentally extended input-output or lifecycle analysis of economic/financial systems
 
 - [pymrio](https://github.com/konstantinstadler/pymrio) - Multi-Regional Input-Output Analysis in Python
 - [PyIO](https://real.illinois.edu/pyio/) - (Python Module for Input-Output Analysis)
@@ -49,9 +54,11 @@ Frameworks that are indirectly supporting climate finance through environmentall
 - [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) - A data utility for tracking climate action
 - [CityCatalyst](https://github.com/Open-Earth-Foundation/CityCatalyst) - Open Source carbon accounting for cities
 
+### Biodiversity Finance
+
 ### Circular Economy Models
 
-Frameworks that indirectly support sustainable finance by helping track material flows.
+Frameworks that indirectly support sustainable finance by helping track material flows and advancing the circular economy
 
 - [pycirk](https://bitbucket.org/CML-IE/pycirk/src/master/) - A python package to model Circular Economy policy and technological interventions in Environmentally Extended Input-Output Analysis starting from SUTs
 - [ODYM](https://github.com/IndEcol/ODYM) - Open Dynamic Material Systems Model
@@ -59,7 +66,7 @@ Frameworks that indirectly support sustainable finance by helping track material
 
 ### Integrated Assessment Models
 
-Integrated economic models (for macro scenarios) 
+Integrated economic models (for macroeconomic scenarios) 
 
 - [mimi](https://github.com/mimiframework/Mimi.jl) - Mimi is a Julia package that provides a component model for integrated assessment models
 - [MessageIX](https://github.com/iiasa/message_ix) - MESSAGEix is a versatile, dynamic, model framework for energy-engineering-economy-environment (E4) systems research.
@@ -76,7 +83,11 @@ Integrated economic models (for macro scenarios)
 
 Frameworks and tools that support the social pillar of ESG, e.g. through financial inclusion tools and infrastructure
 
+#### Financial Inclusion
+
 - [Fineract](https://github.com/apache/fineract/) - Apache Fineract: A Platform for Microfinance
+
+#### Financial Literacy
 
 ## Open Data
 
@@ -95,7 +106,7 @@ Frameworks and tools that support the social pillar of ESG, e.g. through financi
   - [electricityMap Data Sources](https://github.com/electricitymap/electricitymap-contrib/blob/master/DATA_SOURCES.md)
 - [ETHOS.FINE](https://github.com/FZJ-IEK3-VSA/FINE) - Framework for Integrated Energy System Assessment
 - 
-### General Sustainability Data
+### Other Sustainability Data
 
 - [SDG Data Repository (UK)](https://github.com/ONSdigital/sdg-data) - Data repository for SDGs
 
