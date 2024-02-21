@@ -57,6 +57,8 @@ Frameworks that are *indirectly* supporting climate finance through environmenta
 
 ### Biodiversity Finance
 
+- PLACEHOLDER
+
 ### Circular Economy Models
 
 Frameworks that indirectly support sustainable finance by helping track material flows and advancing the circular economy
@@ -89,8 +91,12 @@ Frameworks and tools that support the social pillar of ESG, e.g. through financi
 - [Fineract](https://github.com/apache/fineract/) - Apache Fineract: A Platform for Microfinance
 - [mojaloop](https://github.com/mojaloop) - Open source software for creating payment platforms that will help unbanked people access digital financial services.
 - [Tazama](https://github.com/frmscoe/) - Open Source Real-Time Transaction Monitoring Software for Fraud and Money Laundering Detection
+- [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
+- [rafiki](https://github.com/interledger/rafiki) - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users. 
 
 #### Financial Literacy
+
+- PLACEHOLDER
 
 ## Open Data
 
@@ -123,3 +129,4 @@ Other awesome lists / resources that are more indirectly relevant for sustainabl
 - [NTNU Course](https://github.com/iiasa/ntnu_iam_2022) - NTNU Integrated Assessment Modelling Course (2022)
 - [climate econometrics](https://github.com/atrisovic/weather-panel.github.io/) - This is a repository for a practical guide to climate econometrics available at climateestimate.net
 - [Open Climate](https://github.com/Open-Earth-Foundation/OpenClimate) - Independent Climate Accounting Network in support of Paris Agreement goals
+- [Awesome Fintech](https://github.com/moov-io/awesome-fintech) - A curated collection of open source fintech libraries and resources.
