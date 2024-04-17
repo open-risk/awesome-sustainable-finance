@@ -120,6 +120,7 @@ This section collects open data sources (API endpoints) with data relevant direc
 - [electricityMap](https://github.com/electricitymap/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
   - [electricityMap Data Sources](https://github.com/electricitymap/electricitymap-contrib/blob/master/DATA_SOURCES.md)
 - [ETHOS.FINE](https://github.com/FZJ-IEK3-VSA/FINE) - Framework for Integrated Energy System Assessment
+- [gridemissions](https://github.com/jdechalendar/gridemissions) - The tools in this repository power the visualization at energy.stanford.edu/gridemissions
   
 ### Other Sustainability Data
 
