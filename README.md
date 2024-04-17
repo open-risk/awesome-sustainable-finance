@@ -111,6 +111,7 @@ This section collects open data sources (API endpoints) with data relevant direc
 - [GHG Data](https://github.com/sphericalpm/ghgdata) - Greenhouse gas emissions data packaged for easy exploration and charting
 - [EFDB](https://www.ipcc-nggip.iges.or.jp/EFDB/downloads.php) - IPCC Emission Factor Database (offline versions for MS,Apple,Linux)
 - [ipcc](https://gitlab.com/bonsamurais/bonsai/util/ipcc) - U  tility functions to calculate greenhouse gas inventories based on IPCC Guidelines for National Greenhouse Gas Inventories
+- [openGHG](https://github.com/openghg/openghg) - A cloud platform for greenhouse gas (GHG) data analysis and collaboration. 
 
 ### Energy System
 
