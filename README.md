@@ -59,7 +59,7 @@ Frameworks that are *indirectly* supporting climate finance through environmenta
 
 ### Biodiversity Finance
 
-- PLACEHOLDER
+- [riskmapjnr](https://github.com/ghislainv/riskmapjnr) - The riskmapjnr Python package can be used to obtain maps of the spatial risk of deforestation and forest degradation
 
 ### Circular Economy Models
 
