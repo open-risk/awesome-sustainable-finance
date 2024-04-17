@@ -110,7 +110,7 @@ This section collects open data sources (API endpoints) with data relevant direc
 - [European Environment Agency](https://data.europa.eu/data/datasets/dat-2-en?locale=en) - EU Member States' greenhouse gas (GHG) emission projections
 - [GHG Data](https://github.com/sphericalpm/ghgdata) - Greenhouse gas emissions data packaged for easy exploration and charting
 - [EFDB](https://www.ipcc-nggip.iges.or.jp/EFDB/downloads.php) - IPCC Emission Factor Database (offline versions for MS,Apple,Linux)
-- [ipcc](https://gitlab.com/bonsamurais/bonsai/util/ipcc) - U  tility functions to calculate greenhouse gas inventories based on IPCC Guidelines for National Greenhouse Gas Inventories
+- [bonsai_ipcc](https://gitlab.com/bonsamurais/bonsai/util/ipcc) - The bonsai_ipcc python package enables users to calculate national greenhouse gas (GHG) inventories based on the guidelines provided by the International Panel on Climate Change
 - [openGHG](https://github.com/openghg/openghg) - A cloud platform for greenhouse gas (GHG) data analysis and collaboration. 
 
 ### Energy System
@@ -119,7 +119,7 @@ This section collects open data sources (API endpoints) with data relevant direc
 - [electricityMap](https://github.com/electricitymap/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
   - [electricityMap Data Sources](https://github.com/electricitymap/electricitymap-contrib/blob/master/DATA_SOURCES.md)
 - [ETHOS.FINE](https://github.com/FZJ-IEK3-VSA/FINE) - Framework for Integrated Energy System Assessment
-- 
+  
 ### Other Sustainability Data
 
 - [SDG Data Repository (UK)](https://github.com/ONSdigital/sdg-data) - Data repository for SDGs
