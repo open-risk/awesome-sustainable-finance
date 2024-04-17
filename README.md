@@ -26,7 +26,9 @@ As the list grows we may introduce more / different sub-categories. The current 
   - [Other Sustainability Data](#other-sustainability-data)
 - [Related Domains](#related-domains)
 
-## Open Source Frameworks
+## Open Source Frameworks (Models and Tools)
+
+This section focuses on projects that are primarily code oriented (models, tools etc.). Projects are grouped by domain.
 
 ### Climate Finance
 
@@ -100,9 +102,11 @@ Frameworks and tools that support the social pillar of ESG, e.g. through financi
 
 ## Open Data
 
+This section collects open data sources (API endpoints) with data relevant directly or indirectly for sustainable finance workflows
+
 ### GHG Emissions
 
-- [EDGAR](https://edgar.jrc.ec.europa.eu/dataset_ghg60#intro) - Emissions Database for Global Atmospheric Research
+- [EDGAR](https://edgar.jrc.ec.europa.eu/emissions_data_and_maps) - European Commission Emissions Database for Global Atmospheric Research
 - [European Environment Agency](https://data.europa.eu/data/datasets/dat-2-en?locale=en) - EU Member States' greenhouse gas (GHG) emission projections
 - [GHG Data](https://github.com/sphericalpm/ghgdata) - Greenhouse gas emissions data packaged for easy exploration and charting
 - [EFDB](https://www.ipcc-nggip.iges.or.jp/EFDB/downloads.php) - IPCC Emission Factor Database (offline versions for MS,Apple,Linux)
