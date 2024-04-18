@@ -47,7 +47,8 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 Frameworks that are *indirectly* supporting climate finance through environmentally extended input-output or lifecycle analysis of economic/financial systems
 
 - [pymrio](https://github.com/konstantinstadler/pymrio) - Multi-Regional Input-Output Analysis in Python
-- [PyIO](https://real.illinois.edu/pyio/) - (Python Module for Input-Output Analysis)
+- [PyIO](https://real.illinois.edu/pyio/) - Python Module for Input-Output Analysis
+- [iopy](https://github.com/WWakker/iopy) - Input-output data with Python 
 - [pyLCAIO](https://github.com/MaximeAgez/pylcaio) - A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases
 - [Scafandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent
 - [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage
