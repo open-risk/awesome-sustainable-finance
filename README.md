@@ -97,6 +97,10 @@ Frameworks and tools that support the social pillar of ESG, e.g. through financi
 - [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
 - [rafiki](https://github.com/interledger/rafiki) - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users. 
 
+#### Social Vulnerability
+
+- [SVInsight](https://github.com/mdp0023/SVInsight) - A python package for calculating an exploratory social vulnerability index (SVI). 
+
 #### Financial Literacy
 
 - PLACEHOLDER
