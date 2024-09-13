@@ -128,6 +128,7 @@ This section collects open data sources (API endpoints) with data relevant direc
 - [ETHOS.FINE](https://github.com/FZJ-IEK3-VSA/FINE) - Framework for Integrated Energy System Assessment
 - [gridemissions](https://github.com/jdechalendar/gridemissions) - The tools in this repository power the visualization at energy.stanford.edu/gridemissions
 - [Energy Access Explorer](https://github.com/energyaccessexplorer) - Online and interactive geospatial platform that enables energy planners, clean energy entrepreneurs, donors, and development institutions to identify high-priority areas for energy access interventions.
+- [Energy Systems and Energy Economics](https://gitlab.ruhr-uni-bochum.de/ee) - Ruhr-Universität Bochum (RUB) GitLab repository cd2es Cordex tools
   
 ### Other Sustainability Data
 
