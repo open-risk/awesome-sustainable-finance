@@ -2,17 +2,18 @@
 
 # Awesome Sustainable Finance
 
-A curated list of sustainable finance resources. The focus of the list is on code (tools, libraries, frameworks etc.) that fairly directly support any type of sustainable finance effort and open data that are useful in a sustainable finance context.
+A curated list of open source Sustainable Finance resources. 
+
+The focus of the list is on *code* (tools, libraries, frameworks etc.) that fairly directly support any type of sustainable finance effort. Additionally, any *open data* that are useful in a sustainable finance context.
 
 ![Solarpunk Flag](./Solarpunk_Flag.png)
-
 Image Credit: StarwallOfRadical.town, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
 
 [How To Contribute](CONTRIBUTING.md)
 
 ## Contents
 
-As the list grows we may introduce more / different sub-categories. The current classification is as follows:
+The current classification is as follows (As the list grows we may introduce more / different sub-categories):
 
 - [Open Source Frameworks](#open-source-frameworks)
   - [Climate Finance](#climate-finance)
