@@ -1,3 +1,5 @@
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 # Awesome Sustainable Finance
 
 A curated list of sustainable finance resources. The focus of the list is on code (tools, libraries, frameworks etc.) that fairly directly support any type of sustainable finance effort and open data that are useful in a sustainable finance context.
