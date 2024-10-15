@@ -17,6 +17,8 @@ As the list grows we may introduce more / different sub-categories. The current 
 - [Open Source Frameworks](#open-source-frameworks)
   - [Climate Finance](#climate-finance)
   - [Carbon Footprint](#carbon-footprint)
+    - [Cloud Carbon Footprints](#cloud-carbon-footprints)
+  - [Biodiversity Finance](#biodiversity-finance)
   - [Circular Economy](#circular-economy)
   - [Integrated Assessment Models](#integrated-assessment-models)
   - [Social Finance](#social-finance)
@@ -28,9 +30,9 @@ As the list grows we may introduce more / different sub-categories. The current 
   - [Other Sustainability Data](#other-sustainability-data)
 - [Related Domains](#related-domains)
 
-## Open Source Frameworks (Models and Tools)
+## Open Source Frameworks
 
-This section focuses on projects that are primarily code oriented (models, tools etc.). Projects are grouped by domain.
+This section focuses on projects  (Models and Tools) that are primarily code oriented (models, tools etc.). Projects are grouped by domain.
 
 ### Climate Finance
 
@@ -46,9 +48,9 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 - [open-climate-investing](https://github.com/opentaps/open-climate-investing) - Application and data for analyzing and structuring portfolios for climate investing.
 - [climate-finance](https://github.com/ONEcampaign/climate-finance-package) - climate-finance is the python package to get, clean, and work with international public climate finance.
 
-### Carbon Footprint via EEIO or LCA Models
+### Carbon Footprint
 
-Frameworks that are indirectly supporting climate finance through input-output analysis of economic systems
+Frameworks (via EEIO or LCA Models) that are indirectly supporting climate finance through input-output analysis of economic systems
 
 - [pymrio](https://github.com/konstantinstadler/pymrio) - Multi-Regional Input-Output Analysis in Python
 - [PyIO](https://real.illinois.edu/pyio/) - Python Module for Input-Output Analysis
@@ -70,9 +72,9 @@ Frameworks that are indirectly supporting climate finance through input-output a
 
 - [riskmapjnr](https://github.com/ghislainv/riskmapjnr) - The riskmapjnr Python package can be used to obtain maps of the spatial risk of deforestation and forest degradation
 
-### Circular Economy Models
+### Circular Economy
 
-Frameworks that indirectly support sustainable finance by helping track material flows and advancing the circular economy
+Models and Frameworks that indirectly support sustainable finance by helping track material flows and advancing the circular economy
 
 - [pycirk](https://bitbucket.org/CML-IE/pycirk/src/master/) - A python package to model Circular Economy policy and technological interventions in Environmentally Extended Input-Output Analysis starting from SUTs
 - [ODYM](https://github.com/IndEcol/ODYM) - Open Dynamic Material Systems Model
@@ -98,9 +100,9 @@ Integrated economic models (for macroeconomic scenarios)
 - [IAMC Tools](https://github.com/IAMconsortium/iamc) - A collection of R tools for data analysis and diagnostics.
 - [WorldDynamics.jl](https://github.com/worlddynamics/WorldDynamics.jl) - An open-source framework written in Julia for global integrated assessment models.
 
-### Social Finance / MicroFinance
+### Social Finance
 
-Frameworks and tools that support the social pillar of ESG, e.g. through financial inclusion tools and infrastructure
+MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. through financial inclusion and literacy tools and infrastructure
 
 #### Financial Inclusion
 
