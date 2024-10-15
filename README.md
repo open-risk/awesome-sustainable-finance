@@ -43,6 +43,8 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 - [OS-Climate](https://github.com/os-climate) - Open Source Solutions to Enable Climate-Smart Investing
 - [blockchain-carbon-accounting](https://github.com/hyperledger-labs/blockchain-carbon-accounting) - This project implements blockchain applications for climate action and accounting, including emissions calculations, carbon trading, and validation of climate claims. It is part of the Linux Foundation's Hyperledger Climate Action and Accounting SIG
 - [ESG Reg Reporting](https://gitlab.com/finosfoundation/legend/reg-innovation/esg-reg-reporting) - A FINOS project to enable banks to consume 3rd party ESG data for the purposes of EU regulatory reporting
+- [open-climate-investing](https://github.com/opentaps/open-climate-investing) - Application and data for analyzing and structuring portfolios for climate investing.
+- [climate-finance](https://github.com/ONEcampaign/climate-finance-package) - climate-finance is the python package to get, clean, and work with international public climate finance.
 
 ### Carbon Footprint via EEIO or LCA Models
 
@@ -107,6 +109,7 @@ Frameworks and tools that support the social pillar of ESG, e.g. through financi
 - [Tazama](https://github.com/frmscoe/) - Open Source Real-Time Transaction Monitoring Software for Fraud and Money Laundering Detection
 - [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
 - [rafiki](https://github.com/interledger/rafiki) - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users. 
+- [micro-finance](https://github.com/MicroPyramid/micro-finance) - Free Micro Finance Software
 
 #### Social Vulnerability
 
