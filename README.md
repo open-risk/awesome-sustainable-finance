@@ -1,6 +1,6 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Awesome Sustainable Finance
+**Awesome Sustainable Finance**
 
 A curated list of sustainable finance resources. The focus of the list is on code (tools, libraries, frameworks etc.) that fairly directly support any type of sustainable finance effort and open data that are useful in a sustainable finance context.
 
@@ -10,7 +10,7 @@ Image Credit: StarwallOfRadical.town, [CC BY-SA 4.0](https://creativecommons.org
 
 Are you interested to contribute to this collection? [Here is how](CONTRIBUTING.md)
 
-## Contents
+# Contents
 
 As the list grows we may introduce more / different sub-categories. The current classification is as follows
 
@@ -30,11 +30,11 @@ As the list grows we may introduce more / different sub-categories. The current 
   - [Other Sustainability Data](#other-sustainability-data)
 - [Related Domains](#related-domains)
 
-## Open Source Frameworks
+# Open Source Frameworks
 
 This section focuses on projects  (Models and Tools) that are primarily code oriented (models, tools etc.). Projects are grouped by domain.
 
-### Climate Finance
+## Climate Finance
 
 Frameworks and tools that are *directly* assisting the analysis of financial operations (e.g., transactions, securities, portfolios of contracts etc.) from a climate finance perspective
 
@@ -48,7 +48,7 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 - [open-climate-investing](https://github.com/opentaps/open-climate-investing) - Application and data for analyzing and structuring portfolios for climate investing.
 - [climate-finance](https://github.com/ONEcampaign/climate-finance-package) - climate-finance is the python package to get, clean, and work with international public climate finance.
 
-### Carbon Footprint
+## Carbon Footprint
 
 Frameworks (via EEIO or LCA Models) that are indirectly supporting climate finance through input-output analysis of economic systems
 
@@ -58,7 +58,7 @@ Frameworks (via EEIO or LCA Models) that are indirectly supporting climate finan
 - [pyLCAIO](https://github.com/MaximeAgez/pylcaio) - A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases.
 - [Scafandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent.
 
-#### Cloud Carbon Footprints
+### Cloud Carbon Footprints
 
 - [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
 - [AWS Sustainability Insights Framework (SIF)](https://github.com/aws-solutions-library-samples/guidance-for-aws-sustainability-insights-framework) - The AWS Sustainability Insights Framework (SIF) offers foundational software components that accelerate the design and implementation of applications to automate carbon footprint tracking.
@@ -68,11 +68,11 @@ Frameworks (via EEIO or LCA Models) that are indirectly supporting climate finan
 - [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) - A data utility for tracking climate action.
 - [CityCatalyst](https://github.com/Open-Earth-Foundation/CityCatalyst) - Open Source carbon accounting for cities.
 
-### Biodiversity Finance
+## Biodiversity Finance
 
 - [riskmapjnr](https://github.com/ghislainv/riskmapjnr) - The riskmapjnr Python package can be used to obtain maps of the spatial risk of deforestation and forest degradation
 
-### Circular Economy
+## Circular Economy
 
 Models and Frameworks that indirectly support sustainable finance by helping track material flows and advancing the circular economy.
 
@@ -83,7 +83,7 @@ Models and Frameworks that indirectly support sustainable finance by helping tra
 - [PV ICE](https://github.com/NREL/PV_ICE) - An open-source tool to quantify Solar Photovoltaics (PV) Energy and Mass Flows in the Circular Economy, from a Reliability and Lifetime approach.
 - [Circular Economy Lifecycle Assessment and VIsualization (CELAVI) framework ](https://github.com/NREL/celavi) - Codebase for the Circular Economy Lifecycle Assessment and VIsualization (CELAVI) modeling framework.
 
-### Integrated Assessment Models
+## Integrated Assessment Models
 
 Integrated economic models (for macroeconomic scenarios) 
 
@@ -100,32 +100,42 @@ Integrated economic models (for macroeconomic scenarios)
 - [IAMC Tools](https://github.com/IAMconsortium/iamc) - A collection of R tools for data analysis and diagnostics.
 - [WorldDynamics.jl](https://github.com/worlddynamics/WorldDynamics.jl) - An open-source framework written in Julia for global integrated assessment models.
 
-### Social Finance
+## Social Finance
 
 MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. through financial inclusion and literacy tools and infrastructure
 
-#### Financial Inclusion
+### Financial Inclusion
+
+#### Mifos
 
 - [Fineract](https://github.com/apache/fineract/) - Apache Fineract: A Platform for Microfinance.
 - [mojaloop](https://github.com/mojaloop) - Open source software for creating payment platforms that will help unbanked people access digital financial services.
+
+#### Interledger
+
+- [rafiki](https://github.com/interledger/rafiki) - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users. 
+- [web-monetization](https://github.com/interledger/web-monetization-extension) - An open-source browser extension that enables Web Monetization.
+- [interledger-rs](https://github.com/interledger/interledger-rs) - An easy-to-use, high-performance Interledger implementation written in Rust 
+  
+#### Other
+
 - [Tazama](https://github.com/frmscoe/) - Open Source Real-Time Transaction Monitoring Software for Fraud and Money Laundering Detection.
 - [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
-- [rafiki](https://github.com/interledger/rafiki) - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users. 
 - [micro-finance](https://github.com/MicroPyramid/micro-finance) - Free Micro Finance Software.
 
-#### Social Vulnerability
+### Social Vulnerability
 
 - [SVInsight](https://github.com/mdp0023/SVInsight) - A python package for calculating an exploratory social vulnerability index (SVI). 
 
-#### Financial Literacy
+### Financial Literacy
 
 - PLACEHOLDER
 
-## Open Data
+# Open Data
 
 This section collects open data sources (API endpoints) with data relevant directly or indirectly for sustainable finance workflows
 
-### GHG Emissions
+## GHG Emissions
 
 - [EDGAR](https://edgar.jrc.ec.europa.eu/emissions_data_and_maps) - European Commission Emissions Database for Global Atmospheric Research
 - [European Environment Agency](https://data.europa.eu/data/datasets/dat-2-en?locale=en) - EU Member States' greenhouse gas (GHG) emission projections
@@ -136,7 +146,7 @@ This section collects open data sources (API endpoints) with data relevant direc
 - [FaIR](https://github.com/OMS-NetZero/FAIR) - FaIR (the Finite-amplitude Impulse-Response) climate model is a simple climate model, or emulator, useful for producing global mean temperature projections from a wide range of emissions or prescribed forcing scenarios
 - [climate_categories](https://github.com/pik-primap/climate_categories) - Commonly used codes, categories, terminologies, and nomenclatures used in climate policy analysis in a nice Python package. 
   
-### Energy System
+## Energy System
 
 - [GEM](https://www.gem.wiki/Main_Page) - GEM Wiki, the shared resource on all things energy: fossil fuels, renewable energy sources, environmental impacts, and the global movement to transition to a clean energy system
 - [electricityMap](https://github.com/electricitymap/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
@@ -146,11 +156,11 @@ This section collects open data sources (API endpoints) with data relevant direc
 - [Energy Access Explorer](https://github.com/energyaccessexplorer) - Online and interactive geospatial platform that enables energy planners, clean energy entrepreneurs, donors, and development institutions to identify high-priority areas for energy access interventions.
 - [Energy Systems and Energy Economics](https://gitlab.ruhr-uni-bochum.de/ee) - Ruhr-Universität Bochum (RUB) GitLab repository cd2es Cordex tools
   
-### Other Sustainability Data
+## Other Sustainability Data
 
 - [SDG Data Repository (UK)](https://github.com/ONSdigital/sdg-data) - Data repository for SDGs
 
-## Related Domains
+# Related Domains
 
 Other awesome lists / resources that are more indirectly relevant for sustainable finance
 
