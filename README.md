@@ -99,6 +99,7 @@ Integrated economic models (for macroeconomic scenarios)
 - [nomenclature](https://github.com/IAMconsortium/nomenclature) - Working with IAMC-format project definitions.
 - [IAMC Tools](https://github.com/IAMconsortium/iamc) - A collection of R tools for data analysis and diagnostics.
 - [WorldDynamics.jl](https://github.com/worlddynamics/WorldDynamics.jl) - An open-source framework written in Julia for global integrated assessment models.
+- [META](https://github.com/openmodels/META-2021) - The Model for Economic Tipping (point) Analysis 
 
 ## Social Finance
 
