@@ -65,6 +65,7 @@ Frameworks (via EEIO or LCA Models) that are indirectly supporting climate finan
 - [Node Carbon](https://github.com/sumn2u/node-carbon) - A Node Package for Measuring Carbon Footprints.
 - [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) - A data utility for tracking climate action.
 - [CityCatalyst](https://github.com/Open-Earth-Foundation/CityCatalyst) - Open Source carbon accounting for cities.
+- [Leontief](https://github.com/open-risk/leontief) - Leontief is a C++ package to work with economic Input-Output models 
 
 ## Biodiversity Finance
 
