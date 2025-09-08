@@ -48,7 +48,7 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 - [open-climate-investing](https://github.com/opentaps/open-climate-investing) - Application and data for analyzing and structuring portfolios for climate investing.
 - [climate-finance](https://github.com/ONEcampaign/climate-finance-package) - climate-finance is the python package to get, clean, and work with international public climate finance.
 
-## Carbon Footprint
+## Carbon Footprint (EEIO or LCA models)
 
 Frameworks (via EEIO or LCA Models) that are indirectly supporting climate finance through input-output analysis of economic systems
 
@@ -58,9 +58,6 @@ Frameworks (via EEIO or LCA Models) that are indirectly supporting climate finan
 - [pyLCAIO](https://github.com/MaximeAgez/pylcaio) - A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases.
 - [Scafandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent.
 - [cie-useeio-extensions](https://github.com/peterberr/cie-useeio-extensions) - A repository for ongoing work at Yale Center for Industrial Ecology with collaborators to make extensions to USEEIO
-
-### Cloud Carbon Footprints
-
 - [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
 - [AWS Sustainability Insights Framework (SIF)](https://github.com/aws-solutions-library-samples/guidance-for-aws-sustainability-insights-framework) - The AWS Sustainability Insights Framework (SIF) offers foundational software components that accelerate the design and implementation of applications to automate carbon footprint tracking.
 - [US EEIO](https://github.com/USEPA/useeior) - An R package for building and using USEEIO models.
