@@ -57,6 +57,7 @@ Frameworks (via EEIO or LCA Models) that are indirectly supporting climate finan
 - [iopy](https://github.com/WWakker/iopy) - Input-output data with Python.
 - [pyLCAIO](https://github.com/MaximeAgez/pylcaio) - A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases.
 - [Scafandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent.
+- [cie-useeio-extensions](https://github.com/peterberr/cie-useeio-extensions) - A repository for ongoing work at Yale Center for Industrial Ecology with collaborators to make extensions to USEEIO
 
 ### Cloud Carbon Footprints
 
