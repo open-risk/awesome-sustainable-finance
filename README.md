@@ -68,6 +68,7 @@ Frameworks (via EEIO or LCA Models) that are indirectly supporting climate finan
 - [Leontief](https://github.com/open-risk/leontief) - Leontief is a C++ package to work with economic Input-Output models
 - [openLCA](https://github.com/GreenDelta/olca-app) - Source code of openLCA
 - [EXIOBASE-energy-accounts](https://github.com/Kajwan/EXIOBASE-energy-accounts) - Improving precision in an open-sourced procedure applicable to any MRIO database
+- [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input-Output tables for Canada.
 
 ## Biodiversity Finance
 
