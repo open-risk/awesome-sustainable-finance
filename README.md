@@ -69,6 +69,7 @@ Frameworks (via EEIO or LCA Models) that are indirectly supporting climate finan
 - [openLCA](https://github.com/GreenDelta/olca-app) - Source code of openLCA
 - [EXIOBASE-energy-accounts](https://github.com/Kajwan/EXIOBASE-energy-accounts) - Improving precision in an open-sourced procedure applicable to any MRIO database
 - [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input-Output tables for Canada.
+- [MARIO](https://github.com/it-is-me-mario/MARIO) - Multifunctional Analysis of Regions through Input-Output
 
 ## Biodiversity Finance
 
