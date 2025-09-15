@@ -50,7 +50,7 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 
 ## Carbon Footprint (EEIO or LCA models)
 
-Frameworks (via EEIO or LCA Models) that are indirectly supporting climate finance through input-output analysis of economic systems
+Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly supporting climate finance through input-output / life-cycle analysis of economic systems
 
 - [pymrio](https://github.com/konstantinstadler/pymrio) - Multi-Regional Input-Output Analysis in Python.
 - [PyIO](https://real.illinois.edu/pyio/) - Python Module for Input-Output Analysis.
@@ -70,6 +70,7 @@ Frameworks (via EEIO or LCA Models) that are indirectly supporting climate finan
 - [EXIOBASE-energy-accounts](https://github.com/Kajwan/EXIOBASE-energy-accounts) - Improving precision in an open-sourced procedure applicable to any MRIO database
 - [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input-Output tables for Canada.
 - [MARIO](https://github.com/it-is-me-mario/MARIO) - Multifunctional Analysis of Regions through Input-Output
+- [ecospold2matrix](https://github.com/majeau-bettez/ecospold2matrix) - Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables
 
 ## Biodiversity Finance
 
