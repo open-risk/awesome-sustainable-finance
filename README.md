@@ -2,7 +2,15 @@
 
 **Awesome Sustainable Finance**
 
-A curated list of sustainable finance resources. The focus of the list is i) on code (tools, libraries, frameworks etc.) that fairly directly support any type of sustainable finance effort, and ii) open data that are useful in a sustainable finance context.
+A curated list of sustainable finance resources. 
+
+The focus of the list is 
+i) on code (tools, libraries, frameworks etc.) that fairly directly support any type of sustainable finance effort, and 
+ii) open data that are useful in a sustainable finance context.
+
+This file is primary collection of information. We are working on alternative formats for expanded usability
+- [Tabular](Tabular.md)
+- OPML version (coming)
 
 ![Solarpunk Flag](./Solarpunk_Flag.png)
 
