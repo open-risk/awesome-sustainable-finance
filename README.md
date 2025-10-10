@@ -10,7 +10,7 @@ Image Credit: StarwallOfRadical.town, [CC BY-SA 4.0](https://creativecommons.org
 
 Are you interested to contribute to this collection? [Here is how](CONTRIBUTING.md)
 
-# Contents
+# Classification
 
 As the list grows we may introduce more / different sub-categories. The current classification is as follows
 
