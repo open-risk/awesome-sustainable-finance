@@ -9,7 +9,7 @@ i) on code (tools, libraries, frameworks etc.) that fairly directly support any 
 ii) open data that are useful in a sustainable finance context.
 
 This file is primary collection of information. We are working on alternative formats for expanded usability
-- [Tabular](Tabular.md)
+- [Tabular](TABULAR.md)
 - OPML version (coming)
 
 ![Solarpunk Flag](./Solarpunk_Flag.png)
