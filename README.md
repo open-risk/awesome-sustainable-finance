@@ -80,7 +80,9 @@ Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly support
 - [MARIO](https://github.com/it-is-me-mario/MARIO) - Multifunctional Analysis of Regions through Input-Output
 - [ecospold2matrix](https://github.com/majeau-bettez/ecospold2matrix) - Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables
 - [pyspa](https://github.com/beyondepic/pyspa) - A python package for conducting structural path analysis on square technological matrices of process or input-output data, using environmental, social and/or financial satellites
-- [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input-Output tables for Canada. 
+- [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input-Output tables for Canada.
+- [emission budgets](https://github.com/floriandierickx/emission-budgets) - visualising country-specific carbon budgets
+- [GHG Country Sector](https://github.com/martindaniel4/ghg_country_sector) - Visualization of Greenhouse Gas emissions by Country and Sector 
   
 ## Biodiversity Finance
 
