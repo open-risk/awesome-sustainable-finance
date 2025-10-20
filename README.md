@@ -1,26 +1,25 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Awesome Sustainable Finance**
+# Awesome Sustainable Finance
 
-A curated list of sustainable finance resources. 
+A curated list of **sustainable finance** resources. 
 
-The focus of the list is 
-i) on code (tools, libraries, frameworks etc.) that fairly directly support any type of sustainable finance effort, and 
-ii) open data that are useful in a sustainable finance context.
+# Description
 
-This file is primary collection of information. We are working on alternative formats for expanded usability
-- [Tabular](TABULAR.md)
-- OPML version (coming)
+The focus of the awesome sustainable finance list is: 
+- on open source code (software), whether this concerns tools, libraries, frameworks etc. that support any type of sustainable finance effort, and 
+- on open data that are useful in a sustainable finance context.
+
+Are you interested to contribute to this collection of sustainable finance resources? [Here is how](CONTRIBUTING.md). Interested in the technical background to the list, read the [About](About.md) document.
 
 ![Solarpunk Flag](./Solarpunk_Flag.png)
 
 Image Credit: StarwallOfRadical.town, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
 
-Are you interested to contribute to this collection? [Here is how](CONTRIBUTING.md)
 
 # Classification
 
-As the list grows we may introduce more / different sub-categories. The current classification is as follows
+As the list grows we may introduce more / different sub-categories. The current classification is as follows:
 
 - [Open Source Frameworks](#open-source-frameworks)
   - [Climate Finance](#climate-finance)

@@ -1,9 +1,9 @@
 """
-Filename: create_table.py
+Filename: create_opml.py
 Author: Open Risk
 Date: 11 09 2025
 Version: 0.1
-Description: This script converts an awesome list into a tabular formats
+Description: This script converts an awesome list into an OPML format
 License: GPL
 Contact: info@openriskmanagement.com
 """
@@ -23,17 +23,6 @@ def extract_list_items(markdown_text):
             list_items.append(line.strip()[2:].strip())
     return list_items
 
-def create_table_from_list(list_items):
-    table_lines = ["| Index | Item   |", "|------|--------|"]
-    for index, item in enumerate(list_items, start=1):
-        table_lines.append(f"| {index} | {item} |")
-    return "\n".join(table_lines)
-
-def convert_markdown_list_to_table(markdown_text):
-    list_items = extract_list_items(markdown_text)
-    table = create_table_from_list(list_items)
-    return table
-
 def parse_markdown_sections(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         markdown_text = file.read()
@@ -44,22 +33,30 @@ def parse_markdown_sections(file_path):
 if __name__ == "__main__":
 
     input_file = 'README.md'
-    output_file = 'TABULAR.md'
-    output_text = ''
     sections = parse_markdown_sections(input_file)
 
-    # Iterate over sections and create a table for each
+    opml_title = "Awesome List as RSS List"
+    description = "For use in any standard RSS reader"
+
+    opml = ET.Element("opml", version="2.0")
+    head = ET.SubElement(opml, "head")
+    ET.SubElement(head, "title").text = opml_title
+    ET.SubElement(head, "description").text = description
+    body = ET.SubElement(opml, "body")
+
     for section, content in sections.items():
         if section.startswith('# '):
             pass
         else:
-            output_text += section + '\n\n'
             markdown_text = "\n".join(content)
-            table_text = convert_markdown_list_to_table(markdown_text)
-            output_text += table_text  + '\n\n'
+            outline = ET.SubElement(body, "outline", text=section, description=section)
+            list_items = extract_list_items(markdown_text)
+            for index, item in enumerate(list_items, start=1):
+                item = ET.SubElement(outline, "outline", text="", description=item)
 
-    with open(output_file, 'w', encoding='utf-8') as file:
-        file.write(output_text)
-        file.close()
+    tree = ET.ElementTree(opml)
+    with open("asf_feeds.opml", "wb") as file:
+        tree.write(file, encoding="utf-8", xml_declaration=True)
 
-print("Tabular file created successfully.")
+
+print("OPML file created successfully.")

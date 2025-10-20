@@ -37,6 +37,8 @@
 | 19 | [ecospold2matrix](https://github.com/majeau-bettez/ecospold2matrix) - Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables |
 | 20 | [pyspa](https://github.com/beyondepic/pyspa) - A python package for conducting structural path analysis on square technological matrices of process or input-output data, using environmental, social and/or financial satellites |
 | 21 | [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input-Output tables for Canada. |
+| 22 | [emission budgets](https://github.com/floriandierickx/emission-budgets) - visualising country-specific carbon budgets |
+| 23 | [GHG Country Sector](https://github.com/martindaniel4/ghg_country_sector) - Visualization of Greenhouse Gas emissions by Country and Sector |
 
 ## Biodiversity Finance
 
