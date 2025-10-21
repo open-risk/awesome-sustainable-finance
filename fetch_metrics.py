@@ -1,21 +1,13 @@
 import requests
 
-# Replace these variables with your own values
-owner = 'your-username-or-org'
-repo = 'your-repository-name'
-token = 'your-personal-access-token'
+repo = "SBTi-finance-tool"
+owner = "ScienceBasedTargets"
 
 # GitHub API URL for contributors
 url = f'https://api.github.com/repos/{owner}/{repo}/contributors'
 
-# Set up the headers with the personal access token for authentication
-headers = {
-    'Authorization': f'token {token}',
-    'Accept': 'application/vnd.github.v3+json'
-}
-
 # Make the API request
-response = requests.get(url, headers=headers)
+response = requests.get(url)
 
 # Check if the request was successful
 if response.status_code == 200:

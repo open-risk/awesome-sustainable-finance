@@ -1,0 +1,569 @@
+{
+    "## Climate Finance": {
+        "PACTA": {
+            "description": "Run the PACTA analysis on EQ & CB portfolios.",
+            "url": "https://github.com/2DegreesInvesting/PACTA_analysis",
+            "repo": "PACTA_analysis",
+            "host": "github.com",
+            "owner": "2DegreesInvesting"
+        },
+        "r2dii.analysis": {
+            "description": "Tools to Calculate Climate Targets for Financial Portfolios.",
+            "url": "https://github.com/2DegreesInvesting/r2dii.analysis",
+            "repo": "r2dii.analysis",
+            "host": "github.com",
+            "owner": "2DegreesInvesting"
+        },
+        "SBTi Temperature Alignment tool": {
+            "description": "This toolkit helps companies and financial institutions to assess the temperature alignment of current targets, commitments, and investment and lending portfolios, and to use this information to develop targets for official validation by the SBTi.",
+            "url": "https://github.com/ScienceBasedTargets/SBTi-finance-tool",
+            "repo": "SBTi-finance-tool",
+            "host": "github.com",
+            "owner": "ScienceBasedTargets"
+        },
+        "Equinox": {
+            "description": "Equinox is an open source platform that supports the holistic risk management of sustainable finance projects.",
+            "url": "https://github.com/open-risk/equinox",
+            "repo": "equinox",
+            "host": "github.com",
+            "owner": "open-risk"
+        },
+        "OS-Climate": {
+            "description": "Smart Investing.",
+            "url": "https://github.com/os-climate",
+            "repo": null,
+            "host": "github.com",
+            "owner": null
+        },
+        "blockchain-carbon-accounting": {
+            "description": "This project implements blockchain applications for climate action and accounting, including emissions calculations, carbon trading, and validation of climate claims. It is part of the Linux Foundation's Hyperledger Climate Action and Accounting SIG.",
+            "url": "https://github.com/hyperledger-labs/blockchain-carbon-accounting",
+            "repo": "blockchain-carbon-accounting",
+            "host": "github.com",
+            "owner": "hyperledger-labs"
+        },
+        "ESG Reg Reporting": {
+            "description": "A FINOS project to enable banks to consume 3rd party ESG data for the purposes of EU regulatory reporting.",
+            "url": "https://gitlab.com/finosfoundation/legend/reg-innovation/esg-reg-reporting",
+            "repo": "legend",
+            "host": "gitlab.com",
+            "owner": "finosfoundation"
+        },
+        "open-climate-investing": {
+            "description": "Application and data for analyzing and structuring portfolios for climate investing.",
+            "url": "https://github.com/opentaps/open-climate-investing",
+            "repo": "open-climate-investing",
+            "host": "github.com",
+            "owner": "opentaps"
+        },
+        "climate-finance": {
+            "description": "finance is the python package to get, clean, and work with international public climate finance.",
+            "url": "https://github.com/ONEcampaign/climate-finance-package",
+            "repo": "climate-finance-package",
+            "host": "github.com",
+            "owner": "ONEcampaign"
+        }
+    },
+    "## Carbon Footprint (EEIO or LCA models)": {
+        "pymrio": {
+            "description": "Output Analysis in Python.",
+            "url": "https://github.com/konstantinstadler/pymrio",
+            "repo": "pymrio",
+            "host": "github.com",
+            "owner": "konstantinstadler"
+        },
+        "PyIO": {
+            "description": "Output Analysis.",
+            "url": "https://real.illinois.edu/pyio/",
+            "repo": "",
+            "host": "real.illinois.edu",
+            "owner": "pyio"
+        },
+        "iopy": {
+            "description": "output data with Python.",
+            "url": "https://github.com/WWakker/iopy",
+            "repo": "iopy",
+            "host": "github.com",
+            "owner": "WWakker"
+        },
+        "pyLCAIO": {
+            "description": "output (EEIO) databases.",
+            "url": "https://github.com/MaximeAgez/pylcaio",
+            "repo": "pylcaio",
+            "host": "github.com",
+            "owner": "MaximeAgez"
+        },
+        "Scafandre": {
+            "description": "Energy consumption metrology agent.",
+            "url": "https://github.com/hubblo-org/scaphandre",
+            "repo": "scaphandre",
+            "host": "github.com",
+            "owner": "hubblo-org"
+        },
+        "cie-useeio-extensions": {
+            "description": "A repository for ongoing work at Yale Center for Industrial Ecology with collaborators to make extensions to USEEIO",
+            "url": "https://github.com/peterberr/cie-useeio-extensions",
+            "repo": "cie-useeio-extensions",
+            "host": "github.com",
+            "owner": "peterberr"
+        },
+        "Cloud Carbon Footprint": {
+            "description": "hours) and carbon emissions (metric tons CO2e) from public cloud usage.",
+            "url": "https://github.com/cloud-carbon-footprint/cloud-carbon-footprint",
+            "repo": "cloud-carbon-footprint",
+            "host": "github.com",
+            "owner": "cloud-carbon-footprint"
+        },
+        "AWS Sustainability Insights Framework (SIF)": {
+            "description": "The AWS Sustainability Insights Framework (SIF) offers foundational software components that accelerate the design and implementation of applications to automate carbon footprint tracking.",
+            "url": "SIF",
+            "repo": null,
+            "host": "",
+            "owner": null
+        },
+        "US EEIO": {
+            "description": "An R package for building and using USEEIO models.",
+            "url": "https://github.com/USEPA/useeior",
+            "repo": "useeior",
+            "host": "github.com",
+            "owner": "USEPA"
+        },
+        "iomb": {
+            "description": "Output Model Builder.",
+            "url": "https://github.com/USEPA/IO-Model-Builder",
+            "repo": "IO-Model-Builder",
+            "host": "github.com",
+            "owner": "USEPA"
+        },
+        "Node Carbon": {
+            "description": "A Node Package for Measuring Carbon Footprints.",
+            "url": "https://github.com/sumn2u/node-carbon",
+            "repo": "node-carbon",
+            "host": "github.com",
+            "owner": "sumn2u"
+        },
+        "OpenClimate": {
+            "description": "A data utility for tracking climate action.",
+            "url": "https://github.com/Open-Earth-Foundation/OpenClimate",
+            "repo": "OpenClimate",
+            "host": "github.com",
+            "owner": "Open-Earth-Foundation"
+        },
+        "CityCatalyst": {
+            "description": "Open Source carbon accounting for cities.",
+            "url": "https://github.com/Open-Earth-Foundation/CityCatalyst",
+            "repo": "CityCatalyst",
+            "host": "github.com",
+            "owner": "Open-Earth-Foundation"
+        },
+        "Leontief": {
+            "description": "Output models",
+            "url": "https://github.com/open-risk/leontief",
+            "repo": "leontief",
+            "host": "github.com",
+            "owner": "open-risk"
+        },
+        "openLCA": {
+            "description": "Source code of openLCA",
+            "url": "https://github.com/GreenDelta/olca-app",
+            "repo": "olca-app",
+            "host": "github.com",
+            "owner": "GreenDelta"
+        },
+        "EXIOBASE-energy-accounts": {
+            "description": "sourced procedure applicable to any MRIO database",
+            "url": "https://github.com/Kajwan/EXIOBASE-energy-accounts",
+            "repo": "EXIOBASE-energy-accounts",
+            "host": "github.com",
+            "owner": "Kajwan"
+        },
+        "OpenIO-Canada": {
+            "description": "Output tables for Canada.",
+            "url": "https://github.com/CIRAIG/OpenIO-Canada",
+            "repo": "OpenIO-Canada",
+            "host": "github.com",
+            "owner": "CIRAIG"
+        },
+        "MARIO": {
+            "description": "Output",
+            "url": "https://github.com/it-is-me-mario/MARIO",
+            "repo": "MARIO",
+            "host": "github.com",
+            "owner": "it-is-me-mario"
+        },
+        "ecospold2matrix": {
+            "description": "Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables",
+            "url": "https://github.com/majeau-bettez/ecospold2matrix",
+            "repo": "ecospold2matrix",
+            "host": "github.com",
+            "owner": "majeau-bettez"
+        },
+        "pyspa": {
+            "description": "output data, using environmental, social and/or financial satellites",
+            "url": "https://github.com/beyondepic/pyspa",
+            "repo": "pyspa",
+            "host": "github.com",
+            "owner": "beyondepic"
+        },
+        "emission budgets": {
+            "description": "specific carbon budgets",
+            "url": "https://github.com/floriandierickx/emission-budgets",
+            "repo": "emission-budgets",
+            "host": "github.com",
+            "owner": "floriandierickx"
+        },
+        "GHG Country Sector": {
+            "description": "Visualization of Greenhouse Gas emissions by Country and Sector",
+            "url": "https://github.com/martindaniel4/ghg_country_sector",
+            "repo": "ghg_country_sector",
+            "host": "github.com",
+            "owner": "martindaniel4"
+        }
+    },
+    "## Biodiversity Finance": {
+        "riskmapjnr": {
+            "description": "The riskmapjnr Python package can be used to obtain maps of the spatial risk of deforestation and forest degradation",
+            "url": "https://github.com/ghislainv/riskmapjnr",
+            "repo": "riskmapjnr",
+            "host": "github.com",
+            "owner": "ghislainv"
+        }
+    },
+    "## Circular Economy": {
+        "pycirk": {
+            "description": "Output Analysis starting from SUTs.",
+            "url": "https://bitbucket.org/CML-IE/pycirk/src/master/",
+            "repo": "pycirk",
+            "host": "bitbucket.org",
+            "owner": "CML-IE"
+        },
+        "ODYM": {
+            "description": "Open Dynamic Material Systems Model.",
+            "url": "https://github.com/IndEcol/ODYM",
+            "repo": "ODYM",
+            "host": "github.com",
+            "owner": "IndEcol"
+        },
+        "brightway-lca": {
+            "description": "Brightway2 is a framework for advanced life cycle assessment calculations.",
+            "url": "https://github.com/brightway-lca/brightway2",
+            "repo": "brightway2",
+            "host": "github.com",
+            "owner": "brightway-lca"
+        },
+        "open supply chains": {
+            "description": "Open source codebase behind Sourcemap that allows anyone to visualize and analyze supply chains.",
+            "url": "https://github.com/supplychainstudies/OpenSupplyChains",
+            "repo": "OpenSupplyChains",
+            "host": "github.com",
+            "owner": "supplychainstudies"
+        },
+        "PV ICE": {
+            "description": "source tool to quantify Solar Photovoltaics (PV) Energy and Mass Flows in the Circular Economy, from a Reliability and Lifetime approach.",
+            "url": "https://github.com/NREL/PV_ICE",
+            "repo": "PV_ICE",
+            "host": "github.com",
+            "owner": "NREL"
+        },
+        "Circular Economy Lifecycle Assessment and VIsualization (CELAVI) framework ": {
+            "description": "Codebase for the Circular Economy Lifecycle Assessment and VIsualization (CELAVI) modeling framework.",
+            "url": "CELAVI",
+            "repo": null,
+            "host": "",
+            "owner": null
+        }
+    },
+    "## Integrated Assessment Models": {
+        "mimi": {
+            "description": "Mimi is a Julia package that provides a component model for integrated assessment models.",
+            "url": "https://github.com/mimiframework/Mimi.jl",
+            "repo": "Mimi.jl",
+            "host": "github.com",
+            "owner": "mimiframework"
+        },
+        "MessageIX": {
+            "description": "environment (E4) systems research.",
+            "url": "https://github.com/iiasa/message_ix",
+            "repo": "message_ix",
+            "host": "github.com",
+            "owner": "iiasa"
+        },
+        "aneris": {
+            "description": "Harmonization of Emissions Trajectories for Integrated Assessment Models.",
+            "url": "https://github.com/iiasa/aneris",
+            "repo": "aneris",
+            "host": "github.com",
+            "owner": "iiasa"
+        },
+        "premise": {
+            "description": "PRospective EnvironMental Impact AsSEssment. Coupling the ecoinvent database with projections from Integrated Assessment Models (IAM).",
+            "url": "https://github.com/polca/premise",
+            "repo": "premise",
+            "host": "github.com",
+            "owner": "polca"
+        },
+        "DICE": {
+            "description": "Economy Model of the Economics of Global Warming.",
+            "url": "https://github.com/psztorc/DICE",
+            "repo": "DICE",
+            "host": "github.com",
+            "owner": "psztorc"
+        },
+        "DICE++": {
+            "description": "Economy Model of the Economics of Global Warming.",
+            "url": "https://github.com/swillner/dicepp",
+            "repo": "dicepp",
+            "host": "github.com",
+            "owner": "swillner"
+        },
+        "python-DICE": {
+            "description": "Economy (DICE).",
+            "url": "https://github.com/Shivamshaiv/Python-DICE",
+            "repo": "Python-DICE",
+            "host": "github.com",
+            "owner": "Shivamshaiv"
+        },
+        "WITCH": {
+            "description": "World Induced Technical Change Hybrid model.",
+            "url": "https://github.com/witch-team/witchmodel",
+            "repo": "witchmodel",
+            "host": "github.com",
+            "owner": "witch-team"
+        },
+        "pyam": {
+            "description": "energy scenarios.",
+            "url": "https://github.com/IAMconsortium/pyam",
+            "repo": "pyam",
+            "host": "github.com",
+            "owner": "IAMconsortium"
+        },
+        "nomenclature": {
+            "description": "format project definitions.",
+            "url": "https://github.com/IAMconsortium/nomenclature",
+            "repo": "nomenclature",
+            "host": "github.com",
+            "owner": "IAMconsortium"
+        },
+        "IAMC Tools": {
+            "description": "A collection of R tools for data analysis and diagnostics.",
+            "url": "https://github.com/IAMconsortium/iamc",
+            "repo": "iamc",
+            "host": "github.com",
+            "owner": "IAMconsortium"
+        },
+        "WorldDynamics.jl": {
+            "description": "source framework written in Julia for global integrated assessment models.",
+            "url": "https://github.com/worlddynamics/WorldDynamics.jl",
+            "repo": "WorldDynamics.jl",
+            "host": "github.com",
+            "owner": "worlddynamics"
+        },
+        "META": {
+            "description": "The Model for Economic Tipping (point) Analysis",
+            "url": "https://github.com/openmodels/META-2021",
+            "repo": "META-2021",
+            "host": "github.com",
+            "owner": "openmodels"
+        }
+    },
+    "## Social Finance": {},
+    "### Financial Inclusion": {},
+    "#### Mifos": {
+        "Fineract": {
+            "description": "Apache Fineract: A Platform for Microfinance.",
+            "url": "https://github.com/apache/fineract/",
+            "repo": "fineract",
+            "host": "github.com",
+            "owner": "apache"
+        },
+        "mojaloop": {
+            "description": "Open source software for creating payment platforms that will help unbanked people access digital financial services.",
+            "url": "https://github.com/mojaloop",
+            "repo": null,
+            "host": "github.com",
+            "owner": null
+        }
+    },
+    "#### Interledger": {
+        "rafiki": {
+            "description": "source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.",
+            "url": "https://github.com/interledger/rafiki",
+            "repo": "rafiki",
+            "host": "github.com",
+            "owner": "interledger"
+        },
+        "web-monetization": {
+            "description": "source browser extension that enables Web Monetization.",
+            "url": "https://github.com/interledger/web-monetization-extension",
+            "repo": "web-monetization-extension",
+            "host": "github.com",
+            "owner": "interledger"
+        },
+        "interledger-rs": {
+            "description": "performance Interledger implementation written in Rust",
+            "url": "https://github.com/interledger/interledger-rs",
+            "repo": "interledger-rs",
+            "host": "github.com",
+            "owner": "interledger"
+        }
+    },
+    "#### Other": {
+        "Tazama": {
+            "description": "Time Transaction Monitoring Software for Fraud and Money Laundering Detection.",
+            "url": "https://github.com/frmscoe/",
+            "repo": "",
+            "host": "github.com",
+            "owner": "frmscoe"
+        },
+        "tigerbeetle": {
+            "description": "The distributed financial transactions database designed for mission critical safety and performance.",
+            "url": "https://github.com/tigerbeetle/tigerbeetle",
+            "repo": "tigerbeetle",
+            "host": "github.com",
+            "owner": "tigerbeetle"
+        },
+        "micro-finance": {
+            "description": "Free Micro Finance Software.",
+            "url": "https://github.com/MicroPyramid/micro-finance",
+            "repo": "micro-finance",
+            "host": "github.com",
+            "owner": "MicroPyramid"
+        }
+    },
+    "### Social Vulnerability": {
+        "SVInsight": {
+            "description": "A python package for calculating an exploratory social vulnerability index (SVI).",
+            "url": "https://github.com/mdp0023/SVInsight",
+            "repo": "SVInsight",
+            "host": "github.com",
+            "owner": "mdp0023"
+        }
+    },
+    "### Financial Literacy": {
+        "PLACEHOLDER": {
+            "description": "TODO",
+            "url": "https://example.com",
+            "repo": null,
+            "host": "example.com",
+            "owner": null
+        }
+    },
+    "## GHG Emissions": {
+        "EDGAR": {
+            "description": "European Commission Emissions Database for Global Atmospheric Research",
+            "url": "https://edgar.jrc.ec.europa.eu/emissions_data_and_maps",
+            "repo": null,
+            "host": "edgar.jrc.ec.europa.eu",
+            "owner": null
+        },
+        "European Environment Agency": {
+            "description": "EU Member States' greenhouse gas (GHG) emission projections",
+            "url": "https://data.europa.eu/data/datasets/dat-2-en?locale=en",
+            "repo": "datasets",
+            "host": "data.europa.eu",
+            "owner": "data"
+        },
+        "GHG Data": {
+            "description": "Greenhouse gas emissions data packaged for easy exploration and charting",
+            "url": "https://github.com/sphericalpm/ghgdata",
+            "repo": "ghgdata",
+            "host": "github.com",
+            "owner": "sphericalpm"
+        },
+        "EFDB": {
+            "description": "IPCC Emission Factor Database (offline versions for MS,Apple,Linux)",
+            "url": "https://www.ipcc-nggip.iges.or.jp/EFDB/downloads.php",
+            "repo": "downloads.php",
+            "host": "www.ipcc-nggip.iges.or.jp",
+            "owner": "EFDB"
+        },
+        "bonsai_ipcc": {
+            "description": "The bonsai_ipcc python package enables users to calculate national greenhouse gas (GHG) inventories based on the guidelines provided by the International Panel on Climate Change",
+            "url": "https://gitlab.com/bonsamurais/bonsai/util/ipcc",
+            "repo": "bonsai",
+            "host": "gitlab.com",
+            "owner": "bonsamurais"
+        },
+        "openGHG": {
+            "description": "A cloud platform for greenhouse gas (GHG) data analysis and collaboration.",
+            "url": "https://github.com/openghg/openghg",
+            "repo": "openghg",
+            "host": "github.com",
+            "owner": "openghg"
+        },
+        "FaIR": {
+            "description": "Response) climate model is a simple climate model, or emulator, useful for producing global mean temperature projections from a wide range of emissions or prescribed forcing scenarios",
+            "url": "https://github.com/OMS-NetZero/FAIR",
+            "repo": "FAIR",
+            "host": "github.com",
+            "owner": "OMS-NetZero"
+        },
+        "climate_categories": {
+            "description": "Commonly used codes, categories, terminologies, and nomenclatures used in climate policy analysis in a nice Python package.",
+            "url": "https://github.com/pik-primap/climate_categories",
+            "repo": "climate_categories",
+            "host": "github.com",
+            "owner": "pik-primap"
+        }
+    },
+    "## Energy System": {
+        "GEM": {
+            "description": "GEM Wiki, the shared resource on all things energy: fossil fuels, renewable energy sources, environmental impacts, and the global movement to transition to a clean energy system",
+            "url": "https://www.gem.wiki/Main_Page",
+            "repo": null,
+            "host": "www.gem.wiki",
+            "owner": null
+        },
+        "electricityMap": {
+            "description": "time visualisation of the CO2 emissions of electricity consumption",
+            "url": "https://github.com/electricitymap/electricitymap-contrib",
+            "repo": "electricitymap-contrib",
+            "host": "github.com",
+            "owner": "electricitymap"
+        },
+        "electricityMap Data Sources": {
+            "description": "contrib/blob/master/DATA_SOURCES.md)",
+            "url": "https://github.com/electricitymap/electricitymap-contrib/blob/master/DATA_SOURCES.md",
+            "repo": "electricitymap-contrib",
+            "host": "github.com",
+            "owner": "electricitymap"
+        },
+        "ETHOS.FINE": {
+            "description": "Framework for Integrated Energy System Assessment",
+            "url": "https://github.com/FZJ-IEK3-VSA/FINE",
+            "repo": "FINE",
+            "host": "github.com",
+            "owner": "FZJ-IEK3-VSA"
+        },
+        "gridemissions": {
+            "description": "The tools in this repository power the visualization at energy.stanford.edu/gridemissions",
+            "url": "https://github.com/jdechalendar/gridemissions",
+            "repo": "gridemissions",
+            "host": "github.com",
+            "owner": "jdechalendar"
+        },
+        "Energy Access Explorer": {
+            "description": "priority areas for energy access interventions.",
+            "url": "https://github.com/energyaccessexplorer",
+            "repo": null,
+            "host": "github.com",
+            "owner": null
+        },
+        "Energy Systems and Energy Economics": {
+            "description": "Universit\u00e4t Bochum (RUB) GitLab repository cd2es Cordex tools",
+            "url": "https://gitlab.ruhr-uni-bochum.de/ee",
+            "repo": null,
+            "host": "gitlab.ruhr-uni-bochum.de",
+            "owner": null
+        }
+    },
+    "## Other Sustainability Data": {
+        "SDG Data Repository (UK)": {
+            "description": "Data repository for SDGs",
+            "url": "UK",
+            "repo": null,
+            "host": "",
+            "owner": null
+        }
+    }
+}

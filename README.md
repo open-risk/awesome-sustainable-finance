@@ -145,7 +145,7 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 ### Financial Literacy
 
-- PLACEHOLDER
+- [PLACEHOLDER](https://example.com) - TODO
 
 # Open Data
 
