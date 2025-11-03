@@ -1,3 +1,5 @@
 markdown
 mistune
 requests
+rdflib
+owlready2

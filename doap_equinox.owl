@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://usefulinc.com/ns/doap#"
+     xml:base="http://usefulinc.com/ns/doap"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:foaf="http://xmlns.com/foaf/0.1/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    <owl:Ontology/>
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    <!-- http://usefulinc.com/ns/doap#category -->
+
+    <owl:AnnotationProperty rdf:about="http://usefulinc.com/ns/doap#category"/>
+    
+
+
+    <!-- http://usefulinc.com/ns/doap#created -->
+
+    <owl:AnnotationProperty rdf:about="http://usefulinc.com/ns/doap#created"/>
+    
+
+
+    <!-- http://usefulinc.com/ns/doap#description -->
+
+    <owl:AnnotationProperty rdf:about="http://usefulinc.com/ns/doap#description"/>
+    
+
+
+    <!-- http://usefulinc.com/ns/doap#homepage -->
+
+    <owl:AnnotationProperty rdf:about="http://usefulinc.com/ns/doap#homepage"/>
+    
+
+
+    <!-- http://usefulinc.com/ns/doap#license -->
+
+    <owl:AnnotationProperty rdf:about="http://usefulinc.com/ns/doap#license"/>
+    
+
+
+    <!-- http://usefulinc.com/ns/doap#name -->
+
+    <owl:AnnotationProperty rdf:about="http://usefulinc.com/ns/doap#name"/>
+    
+
+
+    <!-- http://usefulinc.com/ns/doap#programming-language -->
+
+    <owl:AnnotationProperty rdf:about="http://usefulinc.com/ns/doap#programming-language"/>
+    
+
+
+    <!-- http://usefulinc.com/ns/doap#release -->
+
+    <owl:AnnotationProperty rdf:about="http://usefulinc.com/ns/doap#release"/>
+    
+
+
+    <!-- http://usefulinc.com/ns/doap#revision -->
+
+    <owl:AnnotationProperty rdf:about="http://usefulinc.com/ns/doap#revision"/>
+    
+
+
+    <!-- http://usefulinc.com/ns/doap#shortdesc -->
+
+    <owl:AnnotationProperty rdf:about="http://usefulinc.com/ns/doap#shortdesc"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://usefulinc.com/ns/doap#Project -->
+
+    <owl:Class rdf:about="http://usefulinc.com/ns/doap#Project"/>
+    
+
+
+    <!-- http://usefulinc.com/ns/doap#Version -->
+
+    <owl:Class rdf:about="http://usefulinc.com/ns/doap#Version"/>
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+
+    <!-- https://sustainability.town -->
+
+    <owl:NamedIndividual rdf:about="https://sustainability.town">
+        <rdf:type rdf:resource="http://usefulinc.com/ns/doap#Project"/>
+        <category rdf:resource="https://projects.apache.org/category/big-data"/>
+        <created xml:lang="en">2025-11-03</created>
+        <description xml:lang="en">Equinox is a database and a web application frontend that works together with tailored data schemas
+            to provide a flexible and powerful Sustainable Finance platform adhering to many regulatory and ESG
+            initiatives and recommendations
+        </description>
+        <homepage rdf:resource="https://sustainability.town"/>
+        <license rdf:resource="https://spdx.org/licenses/Apache-2.0"/>
+        <name xml:lang="en">Open Risk Equinox</name>
+        <programming-language xml:lang="en">Python</programming-language>
+        <release>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://usefulinc.com/ns/doap#Version"/>
+                <created xml:lang="en">2024-09-25</created>
+                <name xml:lang="en">oecd-capmf policy</name>
+                <revision xml:lang="en">0.8.0</revision>
+            </rdf:Description>
+        </release>
+        <shortdesc xml:lang="en">Equinox is an open source platform that supports the holistic risk management of sustainable finance
+            projects
+        </shortdesc>
+    </owl:NamedIndividual>
+</rdf:RDF>

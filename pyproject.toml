@@ -1,0 +1,13 @@
+[project]
+name = "awesome-sustainable-finance"
+version = "0.1.0"
+description = "A project to collect open source sustainable finance resources"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "markdown>=3.9",
+    "mistune>=3.1.4",
+    "owlready2>=0.48",
+    "rdflib>=7.4.0",
+    "requests>=2.32.5",
+]
