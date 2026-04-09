@@ -82,7 +82,8 @@ Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly support
 - [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input-Output tables for Canada.
 - [emission budgets](https://github.com/floriandierickx/emission-budgets) - visualising country-specific carbon budgets
 - [GHG Country Sector](https://github.com/martindaniel4/ghg_country_sector) - Visualization of Greenhouse Gas emissions by Country and Sector 
-  
+- [Scope 3 Challenge](https://github.com/co3org/Scope3-Challenge) - A deep-dive knowledge base covering all 15 GHG Protocol Scope 3 categories, PCAF financed emissions methodology (Category 15), attribution mechanics, and the full regulatory disclosure landscape (CSRD, SEC, ISSB S2, SBTi). Includes empirical data from 1,391 company disclosures and critical analysis of the inset credit market mechanism for supply-chain decarbonisation financing.
+
 ## Biodiversity Finance
 
 - [riskmapjnr](https://github.com/ghislainv/riskmapjnr) - The riskmapjnr Python package can be used to obtain maps of the spatial risk of deforestation and forest degradation
