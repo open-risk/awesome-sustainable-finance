@@ -5,7 +5,7 @@ description = "A project to collect open source sustainable finance resources"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "markdown>=3.9",
+    "markdown>=3.10.2",
     "mistune>=3.1.4",
     "owlready2>=0.48",
     "rdflib>=7.4.0",
