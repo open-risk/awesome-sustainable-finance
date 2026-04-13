@@ -8,6 +8,6 @@ dependencies = [
     "markdown>=3.9",
     "mistune>=3.1.4",
     "owlready2>=0.48",
-    "rdflib>=7.4.0",
+    "rdflib>=7.6.0",
     "requests>=2.32.5",
 ]
