@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "markdown>=3.9",
-    "mistune>=3.1.4",
+    "mistune>=3.2.0",
     "owlready2>=0.48",
     "rdflib>=7.4.0",
     "requests>=2.32.5",
