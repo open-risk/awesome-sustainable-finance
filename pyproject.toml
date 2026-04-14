@@ -7,7 +7,7 @@ requires-python = ">=3.10"
 dependencies = [
     "markdown>=3.10.2",
     "mistune>=3.1.4",
-    "owlready2>=0.48",
+    "owlready2>=0.50",
     "rdflib>=7.4.0",
     "requests>=2.32.5",
 ]
