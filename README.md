@@ -176,7 +176,7 @@ This section collects open data sources (API endpoints) with data relevant direc
 
 - [SDG Data Repository (UK)](https://github.com/ONSdigital/sdg-data) - Data repository for SDGs
 
-# Related Domains
+# Broader and/or Related Domains
 
 Other awesome lists / resources that are more indirectly relevant for sustainable finance
 
@@ -187,3 +187,4 @@ Other awesome lists / resources that are more indirectly relevant for sustainabl
 - [climate econometrics](https://github.com/atrisovic/weather-panel.github.io/) - This is a repository for a practical guide to climate econometrics available at climateestimate.net
 - [Open Climate](https://github.com/Open-Earth-Foundation/OpenClimate) - Independent Climate Accounting Network in support of Paris Agreement goals
 - [Awesome Fintech](https://github.com/moov-io/awesome-fintech) - A curated collection of open source fintech libraries and resources.
+- [Awesome Europe](https://github.com/GeiserX/awesome-europe) - A curated list of open source software for Europe - institutions, regulations, standards, and cross-border infrastructure 
