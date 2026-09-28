@@ -18,7 +18,6 @@ If you want to nominate a project but do not have a GitHub account you can also 
 * For the repository link ensure it is the full URL with protocol (e.g., https), and full path to the actual repository
 * Check spelling, grammar and link validity
 * Add specific title to the pull request and commit should have a useful title.
-* 
 
 ## Non-link contributions
 
