@@ -25,9 +25,10 @@ As the list grows we may introduce more / different sub-categories. The current 
   - [Climate Finance](#climate-finance)
   - [Carbon Footprint](#carbon-footprint)
     - [Cloud Carbon Footprints](#cloud-carbon-footprints)
+  - [Integrated Assessment Models](#integrated-assessment-models)
   - [Biodiversity Finance](#biodiversity-finance)
   - [Circular Economy](#circular-economy)
-  - [Integrated Assessment Models](#integrated-assessment-models)
+  - [Economic Networks](#economic-networks)
   - [Social Finance](#social-finance)
     - [Financial Inclusion](#financial-inclusion)
     - [Financial Literacy](#financial-literacy)
@@ -82,21 +83,6 @@ Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly support
 - [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input-Output tables for Canada.
 - [emission budgets](https://github.com/floriandierickx/emission-budgets) - visualising country-specific carbon budgets
 - [GHG Country Sector](https://github.com/martindaniel4/ghg_country_sector) - Visualization of Greenhouse Gas emissions by Country and Sector 
-  
-## Biodiversity Finance
-
-- [riskmapjnr](https://github.com/ghislainv/riskmapjnr) - The riskmapjnr Python package can be used to obtain maps of the spatial risk of deforestation and forest degradation
-
-## Circular Economy
-
-Models and Frameworks that indirectly support sustainable finance by helping track material flows and advancing the circular economy.
-
-- [pycirk](https://bitbucket.org/CML-IE/pycirk/src/master/) - A python package to model Circular Economy policy and technological interventions in Environmentally Extended Input-Output Analysis starting from SUTs.
-- [ODYM](https://github.com/IndEcol/ODYM) - Open Dynamic Material Systems Model.
-- [brightway-lca](https://github.com/brightway-lca/brightway2) - Brightway2 is a framework for advanced life cycle assessment calculations. 
-- [open supply chains](https://github.com/supplychainstudies/OpenSupplyChains) - Open source codebase behind Sourcemap that allows anyone to visualize and analyze supply chains.
-- [PV ICE](https://github.com/NREL/PV_ICE) - An open-source tool to quantify Solar Photovoltaics (PV) Energy and Mass Flows in the Circular Economy, from a Reliability and Lifetime approach.
-- [Circular Economy Lifecycle Assessment and VIsualization (CELAVI) framework ](https://github.com/NREL/celavi) - Codebase for the Circular Economy Lifecycle Assessment and VIsualization (CELAVI) modeling framework.
 
 ## Integrated Assessment Models
 
@@ -115,6 +101,28 @@ Integrated economic models (for macroeconomic scenarios)
 - [IAMC Tools](https://github.com/IAMconsortium/iamc) - A collection of R tools for data analysis and diagnostics.
 - [WorldDynamics.jl](https://github.com/worlddynamics/WorldDynamics.jl) - An open-source framework written in Julia for global integrated assessment models.
 - [META](https://github.com/openmodels/META-2021) - The Model for Economic Tipping (point) Analysis 
+
+## Economic Networks and Payment Systems
+
+Models of economic networks and platforms supporting economic networks
+
+- [Valueflows](https://codeberg.org/valueflows/valueflows) - Valueflows (VF) is a vocabulary for the distributed economic networks of the next economy, to coordinate the creation, distribution, and exchange of economic resources.
+  
+## Biodiversity Finance
+
+- [riskmapjnr](https://github.com/ghislainv/riskmapjnr) - The riskmapjnr Python package can be used to obtain maps of the spatial risk of deforestation and forest degradation
+
+## Circular Economy
+
+Models and Frameworks that indirectly support sustainable finance by helping track material flows and advancing the circular economy.
+
+- [pycirk](https://bitbucket.org/CML-IE/pycirk/src/master/) - A python package to model Circular Economy policy and technological interventions in Environmentally Extended Input-Output Analysis starting from SUTs.
+- [ODYM](https://github.com/IndEcol/ODYM) - Open Dynamic Material Systems Model.
+- [brightway-lca](https://github.com/brightway-lca/brightway2) - Brightway2 is a framework for advanced life cycle assessment calculations. 
+- [open supply chains](https://github.com/supplychainstudies/OpenSupplyChains) - Open source codebase behind Sourcemap that allows anyone to visualize and analyze supply chains.
+- [PV ICE](https://github.com/NREL/PV_ICE) - An open-source tool to quantify Solar Photovoltaics (PV) Energy and Mass Flows in the Circular Economy, from a Reliability and Lifetime approach.
+- [Circular Economy Lifecycle Assessment and VIsualization (CELAVI) framework ](https://github.com/NREL/celavi) - Codebase for the Circular Economy Lifecycle Assessment and VIsualization (CELAVI) modeling framework.
+
 
 ## Social Finance
 
