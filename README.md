@@ -56,7 +56,7 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 - [open-climate-investing](https://github.com/opentaps/open-climate-investing) - Application and data for analyzing and structuring portfolios for climate investing.
 - [climate-finance](https://github.com/ONEcampaign/climate-finance-package) - climate-finance is the python package to get, clean, and work with international public climate finance.
 
-## Carbon Footprint (EEIO or LCA models)
+## Carbon Footprint
 
 Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly supporting climate finance through input-output / life-cycle analysis of economic systems
 
@@ -102,9 +102,9 @@ Integrated economic models (for macroeconomic scenarios)
 - [WorldDynamics.jl](https://github.com/worlddynamics/WorldDynamics.jl) - An open-source framework written in Julia for global integrated assessment models.
 - [META](https://github.com/openmodels/META-2021) - The Model for Economic Tipping (point) Analysis 
 
-## Economic Networks and Payment Systems
+## Economic Networks
 
-Models of economic networks and platforms supporting economic networks
+Models of economic networks and platforms supporting economic networks and payment systems
 
 - [Valueflows](https://codeberg.org/valueflows/valueflows) - Valueflows (VF) is a vocabulary for the distributed economic networks of the next economy, to coordinate the creation, distribution, and exchange of economic resources.
 - [GNU Taler](https://www.taler.net/en/development.html) - Privacy-preserving electronic payment system
@@ -186,7 +186,7 @@ This section collects open data sources (API endpoints) with data relevant direc
 
 - [SDG Data Repository (UK)](https://github.com/ONSdigital/sdg-data) - Data repository for SDGs
 
-# Broader and/or Related Domains
+# Related Domains
 
 Other awesome lists / resources that are more indirectly relevant for sustainable finance
 
