@@ -108,6 +108,12 @@ Models of economic networks and platforms supporting economic networks
 
 - [Valueflows](https://codeberg.org/valueflows/valueflows) - Valueflows (VF) is a vocabulary for the distributed economic networks of the next economy, to coordinate the creation, distribution, and exchange of economic resources.
 - [GNU Taler](https://www.taler.net/en/development.html) - Privacy-preserving electronic payment system
+
+### Interledger
+
+- [rafiki](https://github.com/interledger/rafiki) - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users. 
+- [web-monetization](https://github.com/interledger/web-monetization-extension) - An open-source browser extension that enables Web Monetization.
+- [interledger-rs](https://github.com/interledger/interledger-rs) - An easy-to-use, high-performance Interledger implementation written in Rust 
   
 ## Biodiversity Finance
 
@@ -136,12 +142,6 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 - [Fineract](https://github.com/apache/fineract/) - Apache Fineract: A Platform for Microfinance.
 - [mojaloop](https://github.com/mojaloop) - Open source software for creating payment platforms that will help unbanked people access digital financial services.
 
-#### Interledger
-
-- [rafiki](https://github.com/interledger/rafiki) - An open-source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users. 
-- [web-monetization](https://github.com/interledger/web-monetization-extension) - An open-source browser extension that enables Web Monetization.
-- [interledger-rs](https://github.com/interledger/interledger-rs) - An easy-to-use, high-performance Interledger implementation written in Rust 
-  
 #### Other
 
 - [Tazama](https://github.com/frmscoe/) - Open Source Real-Time Transaction Monitoring Software for Fraud and Money Laundering Detection.
