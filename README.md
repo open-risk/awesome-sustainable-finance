@@ -73,14 +73,14 @@ Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly support
 - [Node Carbon](https://github.com/sumn2u/node-carbon) - A Node Package for Measuring Carbon Footprints.
 - [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) - A data utility for tracking climate action.
 - [CityCatalyst](https://github.com/Open-Earth-Foundation/CityCatalyst) - Open Source carbon accounting for cities.
-- [Leontief](https://github.com/open-risk/leontief) - Leontief is a C++ package to work with economic Input-Output models
+- [Leontief](https://github.com/open-risk/leontief) - Leontief is a C++ package to work with economic Input Output models
 - [openLCA](https://github.com/GreenDelta/olca-app) - Source code of openLCA
 - [EXIOBASE-energy-accounts](https://github.com/Kajwan/EXIOBASE-energy-accounts) - Improving precision in an open-sourced procedure applicable to any MRIO database
 - [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input-Output tables for Canada.
-- [MARIO](https://github.com/it-is-me-mario/MARIO) - Multifunctional Analysis of Regions through Input-Output
+- [MARIO](https://github.com/it-is-me-mario/MARIO) - Multifunctional Analysis of Regions through Input Output
 - [ecospold2matrix](https://github.com/majeau-bettez/ecospold2matrix) - Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables
 - [pyspa](https://github.com/beyondepic/pyspa) - A python package for conducting structural path analysis on square technological matrices of process or input-output data, using environmental, social and/or financial satellites
-- [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input-Output tables for Canada.
+- [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input Output tables for Canada.
 - [emission budgets](https://github.com/floriandierickx/emission-budgets) - visualising country-specific carbon budgets
 - [GHG Country Sector](https://github.com/martindaniel4/ghg_country_sector) - Visualization of Greenhouse Gas emissions by Country and Sector 
 
@@ -196,5 +196,6 @@ Other awesome lists / resources that are more indirectly relevant for sustainabl
 - [NTNU Course](https://github.com/iiasa/ntnu_iam_2022) - NTNU Integrated Assessment Modelling Course (2022)
 - [climate econometrics](https://github.com/atrisovic/weather-panel.github.io/) - This is a repository for a practical guide to climate econometrics available at climateestimate.net
 - [Open Climate](https://github.com/Open-Earth-Foundation/OpenClimate) - Independent Climate Accounting Network in support of Paris Agreement goals
+- [Delightful Funding](https://delightful.coding.social/delightful-funding/) - A curated list of funding-related resources for FOSS, Open Data, Open Science projects and sustainable businesses.
 - [Awesome Fintech](https://github.com/moov-io/awesome-fintech) - A curated collection of open source fintech libraries and resources.
-- [Awesome Europe](https://github.com/GeiserX/awesome-europe) - A curated list of open source software for Europe - institutions, regulations, standards, and cross-border infrastructure 
+- [Awesome Europe](https://github.com/GeiserX/awesome-europe) - A curated list of open source software for Europe: institutions, regulations, standards, and cross-border infrastructure 

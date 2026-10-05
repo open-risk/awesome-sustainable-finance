@@ -64,7 +64,7 @@
             "owner": "ONEcampaign"
         }
     },
-    "## Carbon Footprint (EEIO or LCA models)": {
+    "## Carbon Footprint": {
         "pymrio": {
             "description": "Output Analysis in Python.",
             "url": "https://github.com/konstantinstadler/pymrio",
@@ -220,59 +220,6 @@
             "owner": "martindaniel4"
         }
     },
-    "## Biodiversity Finance": {
-        "riskmapjnr": {
-            "description": "The riskmapjnr Python package can be used to obtain maps of the spatial risk of deforestation and forest degradation",
-            "url": "https://github.com/ghislainv/riskmapjnr",
-            "repo": "riskmapjnr",
-            "host": "github.com",
-            "owner": "ghislainv"
-        }
-    },
-    "## Circular Economy": {
-        "pycirk": {
-            "description": "Output Analysis starting from SUTs.",
-            "url": "https://bitbucket.org/CML-IE/pycirk/src/master/",
-            "repo": "pycirk",
-            "host": "bitbucket.org",
-            "owner": "CML-IE"
-        },
-        "ODYM": {
-            "description": "Open Dynamic Material Systems Model.",
-            "url": "https://github.com/IndEcol/ODYM",
-            "repo": "ODYM",
-            "host": "github.com",
-            "owner": "IndEcol"
-        },
-        "brightway-lca": {
-            "description": "Brightway2 is a framework for advanced life cycle assessment calculations.",
-            "url": "https://github.com/brightway-lca/brightway2",
-            "repo": "brightway2",
-            "host": "github.com",
-            "owner": "brightway-lca"
-        },
-        "open supply chains": {
-            "description": "Open source codebase behind Sourcemap that allows anyone to visualize and analyze supply chains.",
-            "url": "https://github.com/supplychainstudies/OpenSupplyChains",
-            "repo": "OpenSupplyChains",
-            "host": "github.com",
-            "owner": "supplychainstudies"
-        },
-        "PV ICE": {
-            "description": "source tool to quantify Solar Photovoltaics (PV) Energy and Mass Flows in the Circular Economy, from a Reliability and Lifetime approach.",
-            "url": "https://github.com/NREL/PV_ICE",
-            "repo": "PV_ICE",
-            "host": "github.com",
-            "owner": "NREL"
-        },
-        "Circular Economy Lifecycle Assessment and VIsualization (CELAVI) framework ": {
-            "description": "Codebase for the Circular Economy Lifecycle Assessment and VIsualization (CELAVI) modeling framework.",
-            "url": "CELAVI",
-            "repo": null,
-            "host": "",
-            "owner": null
-        }
-    },
     "## Integrated Assessment Models": {
         "mimi": {
             "description": "Mimi is a Julia package that provides a component model for integrated assessment models.",
@@ -366,25 +313,30 @@
             "owner": "openmodels"
         }
     },
-    "## Social Finance": {},
-    "### Financial Inclusion": {},
-    "#### Mifos": {
-        "Fineract": {
-            "description": "Apache Fineract: A Platform for Microfinance.",
-            "url": "https://github.com/apache/fineract/",
-            "repo": "fineract",
-            "host": "github.com",
-            "owner": "apache"
+    "## Economic Networks": {
+        "Valueflows": {
+            "description": "Valueflows (VF) is a vocabulary for the distributed economic networks of the next economy, to coordinate the creation, distribution, and exchange of economic resources.",
+            "url": "https://codeberg.org/valueflows/valueflows",
+            "repo": "valueflows",
+            "host": "codeberg.org",
+            "owner": "valueflows"
         },
-        "mojaloop": {
-            "description": "Open source software for creating payment platforms that will help unbanked people access digital financial services.",
-            "url": "https://github.com/mojaloop",
+        "GNU Taler": {
+            "description": "preserving electronic payment system",
+            "url": "https://www.taler.net/en/development.html",
+            "repo": "development.html",
+            "host": "www.taler.net",
+            "owner": "en"
+        },
+        "Bonfire Networks": {
+            "description": "federated network for individuals and communities to design, operate and control their own digital lives",
+            "url": "https://github.com/bonfire-networks",
             "repo": null,
             "host": "github.com",
             "owner": null
         }
     },
-    "#### Interledger": {
+    "### Interledger": {
         "rafiki": {
             "description": "source, comprehensive Interledger service for wallet providers, enabling them to provide Interledger functionality to their users.",
             "url": "https://github.com/interledger/rafiki",
@@ -405,6 +357,77 @@
             "repo": "interledger-rs",
             "host": "github.com",
             "owner": "interledger"
+        }
+    },
+    "## Biodiversity Finance": {
+        "riskmapjnr": {
+            "description": "The riskmapjnr Python package can be used to obtain maps of the spatial risk of deforestation and forest degradation",
+            "url": "https://github.com/ghislainv/riskmapjnr",
+            "repo": "riskmapjnr",
+            "host": "github.com",
+            "owner": "ghislainv"
+        }
+    },
+    "## Circular Economy": {
+        "pycirk": {
+            "description": "Output Analysis starting from SUTs.",
+            "url": "https://bitbucket.org/CML-IE/pycirk/src/master/",
+            "repo": "pycirk",
+            "host": "bitbucket.org",
+            "owner": "CML-IE"
+        },
+        "ODYM": {
+            "description": "Open Dynamic Material Systems Model.",
+            "url": "https://github.com/IndEcol/ODYM",
+            "repo": "ODYM",
+            "host": "github.com",
+            "owner": "IndEcol"
+        },
+        "brightway-lca": {
+            "description": "Brightway2 is a framework for advanced life cycle assessment calculations.",
+            "url": "https://github.com/brightway-lca/brightway2",
+            "repo": "brightway2",
+            "host": "github.com",
+            "owner": "brightway-lca"
+        },
+        "open supply chains": {
+            "description": "Open source codebase behind Sourcemap that allows anyone to visualize and analyze supply chains.",
+            "url": "https://github.com/supplychainstudies/OpenSupplyChains",
+            "repo": "OpenSupplyChains",
+            "host": "github.com",
+            "owner": "supplychainstudies"
+        },
+        "PV ICE": {
+            "description": "source tool to quantify Solar Photovoltaics (PV) Energy and Mass Flows in the Circular Economy, from a Reliability and Lifetime approach.",
+            "url": "https://github.com/NREL/PV_ICE",
+            "repo": "PV_ICE",
+            "host": "github.com",
+            "owner": "NREL"
+        },
+        "Circular Economy Lifecycle Assessment and VIsualization (CELAVI) framework ": {
+            "description": "Codebase for the Circular Economy Lifecycle Assessment and VIsualization (CELAVI) modeling framework.",
+            "url": "CELAVI",
+            "repo": null,
+            "host": "",
+            "owner": null
+        }
+    },
+    "## Social Finance": {},
+    "### Financial Inclusion": {},
+    "#### Mifos": {
+        "Fineract": {
+            "description": "Apache Fineract: A Platform for Microfinance.",
+            "url": "https://github.com/apache/fineract/",
+            "repo": "fineract",
+            "host": "github.com",
+            "owner": "apache"
+        },
+        "mojaloop": {
+            "description": "Open source software for creating payment platforms that will help unbanked people access digital financial services.",
+            "url": "https://github.com/mojaloop",
+            "repo": null,
+            "host": "github.com",
+            "owner": null
         }
     },
     "#### Other": {

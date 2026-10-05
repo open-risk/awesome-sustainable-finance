@@ -8,12 +8,10 @@ License: GPL
 Contact: info@openriskmanagement.com
 """
 
-import markdown
-import mistune
-from markdown.extensions.tables import TableExtension
-from mistune import Markdown
 import xml.etree.ElementTree as ET
+
 from parser import SectionParser
+
 
 def extract_list_items(markdown_text):
     lines = markdown_text.split('\n')
@@ -23,12 +21,14 @@ def extract_list_items(markdown_text):
             list_items.append(line.strip()[2:].strip())
     return list_items
 
+
 def parse_markdown_sections(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
         markdown_text = file.read()
     parser = SectionParser()
     parser.parse(markdown_text)
     return parser.get_sections()
+
 
 if __name__ == "__main__":
 
@@ -57,6 +57,5 @@ if __name__ == "__main__":
     tree = ET.ElementTree(opml)
     with open("asf_feeds.opml", "wb") as file:
         tree.write(file, encoding="utf-8", xml_declaration=True)
-
 
 print("OPML file created successfully.")

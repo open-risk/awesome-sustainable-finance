@@ -9,7 +9,6 @@ Contact: info@openriskmanagement.com
 """
 
 from owlready2 import *
-import rdflib
 
 if __name__ == "__main__":
 

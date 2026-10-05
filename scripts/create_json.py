@@ -9,12 +9,8 @@ Contact: info@openriskmanagement.com
 """
 
 import json
-import markdown
-import mistune
-from markdown.extensions.tables import TableExtension
-from mistune import Markdown
-import xml.etree.ElementTree as ET
-from parser import SectionParser, parse_markdown_sections, convert_markdown_list_to_dict
+
+from utils.parser import parse_markdown_sections, convert_markdown_list_to_dict
 
 if __name__ == "__main__":
 
@@ -23,7 +19,7 @@ if __name__ == "__main__":
     sections = parse_markdown_sections(input_file)
 
     # Iterate over sections and add to dict
-    # Unless its a root level section, which we pass
+    # Unless it is a root level section, which we pass
     # NB: all sections are treated the same, irrespective of nesting level
 
     asf_dict = {}
