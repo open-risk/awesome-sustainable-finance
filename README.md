@@ -108,6 +108,7 @@ Models of economic networks and platforms supporting economic networks
 
 - [Valueflows](https://codeberg.org/valueflows/valueflows) - Valueflows (VF) is a vocabulary for the distributed economic networks of the next economy, to coordinate the creation, distribution, and exchange of economic resources.
 - [GNU Taler](https://www.taler.net/en/development.html) - Privacy-preserving electronic payment system
+- [Bonfire Networks](https://github.com/bonfire-networks) - federated network for individuals and communities to design, operate and control their own digital lives
 
 ### Interledger
 
