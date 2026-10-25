@@ -55,6 +55,7 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 - [ESG Reg Reporting](https://gitlab.com/finosfoundation/legend/reg-innovation/esg-reg-reporting) - A FINOS project to enable banks to consume 3rd party ESG data for the purposes of EU regulatory reporting.
 - [open-climate-investing](https://github.com/opentaps/open-climate-investing) - Application and data for analyzing and structuring portfolios for climate investing.
 - [climate-finance](https://github.com/ONEcampaign/climate-finance-package) - climate-finance is the python package to get, clean, and work with international public climate finance.
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 ## Carbon Footprint
 
