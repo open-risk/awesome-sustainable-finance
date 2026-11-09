@@ -157,7 +157,7 @@
             "owner": "Open-Earth-Foundation"
         },
         "Leontief": {
-            "description": "Output models",
+            "description": "Leontief is a C++ package to work with economic Input Output models",
             "url": "https://github.com/open-risk/leontief",
             "repo": "leontief",
             "host": "github.com",
@@ -178,14 +178,14 @@
             "owner": "Kajwan"
         },
         "OpenIO-Canada": {
-            "description": "Output tables for Canada.",
+            "description": "Module to create symmetric Environmentally Extended Input Output tables for Canada.",
             "url": "https://github.com/CIRAIG/OpenIO-Canada",
             "repo": "OpenIO-Canada",
             "host": "github.com",
             "owner": "CIRAIG"
         },
         "MARIO": {
-            "description": "Output",
+            "description": "Multifunctional Analysis of Regions through Input Output",
             "url": "https://github.com/it-is-me-mario/MARIO",
             "repo": "MARIO",
             "host": "github.com",
@@ -218,6 +218,27 @@
             "repo": "ghg_country_sector",
             "host": "github.com",
             "owner": "martindaniel4"
+        },
+        "VoLCA": {
+            "description": "source LCA engine with API, Python library, CLI, MCP",
+            "url": "https://github.com/ccomb/volca",
+            "repo": "volca",
+            "host": "github.com",
+            "owner": "ccomb"
+        },
+        "Brightway": {
+            "description": "Brightway2 is a framework for advanced life cycle assessment calculations",
+            "url": "https://github.com/brightway-lca/brightway2",
+            "repo": "brightway2",
+            "host": "github.com",
+            "owner": "brightway-lca"
+        },
+        "Regioinvent": {
+            "description": "Python class regionalizing processes from the ecoinvent database using trade date from the UN COMTRADE database and common sense",
+            "url": "https://github.com/CIRAIG/Regioinvent",
+            "repo": "Regioinvent",
+            "host": "github.com",
+            "owner": "CIRAIG"
         }
     },
     "## Integrated Assessment Models": {
@@ -578,6 +599,13 @@
             "repo": null,
             "host": "gitlab.ruhr-uni-bochum.de",
             "owner": null
+        },
+        "DC Hub US Grid Infrastructure Extracts": {
+            "description": "gas pipelines (HIFLD Open baseline plus OpenStreetMap), ODbL 1.0, no key or signup",
+            "url": "https://dchub.cloud/api/v1/odbl/manifest.json",
+            "repo": "v1",
+            "host": "dchub.cloud",
+            "owner": "api"
         }
     },
     "## Other Sustainability Data": {

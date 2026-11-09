@@ -82,7 +82,10 @@ Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly support
 - [pyspa](https://github.com/beyondepic/pyspa) - A python package for conducting structural path analysis on square technological matrices of process or input-output data, using environmental, social and/or financial satellites
 - [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input Output tables for Canada.
 - [emission budgets](https://github.com/floriandierickx/emission-budgets) - visualising country-specific carbon budgets
-- [GHG Country Sector](https://github.com/martindaniel4/ghg_country_sector) - Visualization of Greenhouse Gas emissions by Country and Sector 
+- [GHG Country Sector](https://github.com/martindaniel4/ghg_country_sector) - Visualization of Greenhouse Gas emissions by Country and Sector
+- [VoLCA](https://github.com/ccomb/volca) - Fast open-source LCA engine with API, Python library, CLI, MCP
+- [Brightway](https://github.com/brightway-lca/brightway2) - Brightway2 is a framework for advanced life cycle assessment calculations
+- [Regioinvent](https://github.com/CIRAIG/Regioinvent) - Python class regionalizing processes from the ecoinvent database using trade date from the UN COMTRADE database and common sense
 
 ## Integrated Assessment Models
 
