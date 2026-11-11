@@ -187,6 +187,7 @@ This section collects open data sources (API endpoints) with data relevant direc
 - [Energy Access Explorer](https://github.com/energyaccessexplorer) - Online and interactive geospatial platform that enables energy planners, clean energy entrepreneurs, donors, and development institutions to identify high-priority areas for energy access interventions.
 - [Energy Systems and Energy Economics](https://gitlab.ruhr-uni-bochum.de/ee) - Ruhr-Universität Bochum (RUB) GitLab repository cd2es Cordex tools
 - [DC Hub US Grid Infrastructure Extracts](https://dchub.cloud/api/v1/odbl/manifest.json) - Free CSV extracts of US substations, 69 kV+ transmission lines and natural-gas pipelines (HIFLD Open baseline plus OpenStreetMap), ODbL 1.0, no key or signup
+- [Energy Incident Register Data](https://energyincidentregister.com/data/) - Index of 2,386 reported energy incidents (battery storage, solar, wind, grid and data centre fires, failures and outages) in 103 countries, as CSV and JSON; incident counts by technology, country and year under CC BY 4.0 ([Zenodo](https://doi.org/10.5281/zenodo.23299419))
   
 ## Other Sustainability Data
 
