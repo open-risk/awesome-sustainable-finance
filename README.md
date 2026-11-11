@@ -185,6 +185,7 @@ This section collects open data sources (API endpoints) with data relevant direc
 - [openGHG](https://github.com/openghg/openghg) - A cloud platform for greenhouse gas (GHG) data analysis and collaboration.
 - [FaIR](https://github.com/OMS-NetZero/FAIR) - FaIR (the Finite-amplitude Impulse-Response) climate model is a simple climate model, or emulator, useful for producing global mean temperature projections from a wide range of emissions or prescribed forcing scenarios
 - [climate_categories](https://github.com/pik-primap/climate_categories) - Commonly used codes, categories, terminologies, and nomenclatures used in climate policy analysis in a nice Python package. 
+- [EU ETS](https://www.eea.europa.eu/en/datahub/datahubitem-view/98f04097-26de-4fca-86c4-63834818c0c0) - EEA dataset and [data viewer](https://www.eea.europa.eu/en/analysis/maps-and-charts/emissions-trading-viewer-1-dashboards) of EU ETS verified emissions, allowances and surrendered units, compiled from the European Commission's [Union Registry](https://union-registry-data.ec.europa.eu/report/welcome).
   
 ## Energy System
 
