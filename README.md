@@ -185,6 +185,7 @@ This section collects open data sources (API endpoints) with data relevant direc
 - [openGHG](https://github.com/openghg/openghg) - A cloud platform for greenhouse gas (GHG) data analysis and collaboration.
 - [FaIR](https://github.com/OMS-NetZero/FAIR) - FaIR (the Finite-amplitude Impulse-Response) climate model is a simple climate model, or emulator, useful for producing global mean temperature projections from a wide range of emissions or prescribed forcing scenarios
 - [climate_categories](https://github.com/pik-primap/climate_categories) - Commonly used codes, categories, terminologies, and nomenclatures used in climate policy analysis in a nice Python package. 
+- [Green Steel Tracker](https://www.industrytransition.org/green-steel-tracker/) - LeadIT dataset (CC BY), updated three times a year, tracking low-carbon steel projects with technologies able to reach 85% emissions reduction (below 300 kg CO2 per tonne of steel).
   
 ## Energy System
 
