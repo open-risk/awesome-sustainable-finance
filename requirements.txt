@@ -1,5 +1,0 @@
-markdown
-mistune==3.4.0
-requests==2.34.2
-rdflib
-owlready2

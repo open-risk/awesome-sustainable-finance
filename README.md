@@ -4,15 +4,16 @@
 
 # Awesome Sustainable Finance
 
-A curated list of **sustainable finance** resources. 
+A curated list of **Sustainable Finance** resources. Sustainable finance is here understood broadly, addressing both environmental and social issues.
 
 # Description
 
-The focus of the awesome sustainable finance list is: 
-- on open source code (software), whether this concerns tools, libraries, frameworks etc. that support any type of sustainable finance effort, and 
-- on open data that are useful in a sustainable finance context.
+The focus of the awesome sustainable finance list is:
 
-Are you interested to contribute to this collection of sustainable finance resources? [Here is how](CONTRIBUTING.md). Interested in the technical background to the list, read the [About](About.md) document.
+- **open source code** (software), whether this concerns _tools_, _libraries_, _frameworks_ etc. that support any type of sustainable finance effort, and 
+- **open data** that are useful in a sustainable finance context.
+
+Are you interested to contribute to this collection of sustainable finance resources? [Here is how](CONTRIBUTING.md). 
 
 ![Solarpunk Flag](./Solarpunk_Flag.png)
 
@@ -25,8 +26,9 @@ As the list grows we may introduce more / different sub-categories. The current 
 
 - [Open Source Frameworks](#open-source-frameworks)
   - [Climate Finance](#climate-finance)
-  - [Carbon Footprint](#carbon-footprint)
-    - [Cloud Carbon Footprints](#cloud-carbon-footprints)
+  - [EEIO](#environmentally-extended-input-output-models)
+  - [LCA](#life-cycle-assessment)
+  - [Carbon Footprint](#other-carbon-footprint)
   - [Integrated Assessment Models](#integrated-assessment-models)
   - [Biodiversity Finance](#biodiversity-finance)
   - [Circular Economy](#circular-economy)
@@ -58,36 +60,45 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 - [open-climate-investing](https://github.com/opentaps/open-climate-investing) - Application and data for analyzing and structuring portfolios for climate investing.
 - [climate-finance](https://github.com/ONEcampaign/climate-finance-package) - climate-finance is the python package to get, clean, and work with international public climate finance.
 
-## Carbon Footprint
+## Environmentally Extended Input Output Models
 
-Frameworks (via EEIO or LCA Models or Hybrid Models) that are indirectly supporting climate finance through input-output / life-cycle analysis of economic systems
+EEIO Frameworks that are supporting climate finance through input-output analysis of economic systems
 
 - [pymrio](https://github.com/konstantinstadler/pymrio) - Multi-Regional Input-Output Analysis in Python.
 - [PyIO](https://real.illinois.edu/pyio/) - Python Module for Input-Output Analysis.
 - [iopy](https://github.com/WWakker/iopy) - Input-output data with Python.
 - [pyLCAIO](https://github.com/MaximeAgez/pylcaio) - A Python class to hybridize lifecycle assessment (LCA) and environmentally extended input-output (EEIO) databases.
-- [Scafandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent.
 - [cie-useeio-extensions](https://github.com/peterberr/cie-useeio-extensions) - A repository for ongoing work at Yale Center for Industrial Ecology with collaborators to make extensions to USEEIO
-- [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
-- [AWS Sustainability Insights Framework (SIF)](https://github.com/aws-solutions-library-samples/guidance-for-aws-sustainability-insights-framework) - The AWS Sustainability Insights Framework (SIF) offers foundational software components that accelerate the design and implementation of applications to automate carbon footprint tracking.
 - [US EEIO](https://github.com/USEPA/useeior) - An R package for building and using USEEIO models.
 - [iomb](https://github.com/USEPA/IO-Model-Builder) - Python Input-Output Model Builder.
-- [Node Carbon](https://github.com/sumn2u/node-carbon) - A Node Package for Measuring Carbon Footprints.
-- [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) - A data utility for tracking climate action.
-- [CityCatalyst](https://github.com/Open-Earth-Foundation/CityCatalyst) - Open Source carbon accounting for cities.
 - [Leontief](https://github.com/open-risk/leontief) - Leontief is a C++ package to work with economic Input Output models
-- [openLCA](https://github.com/GreenDelta/olca-app) - Source code of openLCA
 - [EXIOBASE-energy-accounts](https://github.com/Kajwan/EXIOBASE-energy-accounts) - Improving precision in an open-sourced procedure applicable to any MRIO database
 - [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input-Output tables for Canada.
 - [MARIO](https://github.com/it-is-me-mario/MARIO) - Multifunctional Analysis of Regions through Input Output
-- [ecospold2matrix](https://github.com/majeau-bettez/ecospold2matrix) - Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables
 - [pyspa](https://github.com/beyondepic/pyspa) - A python package for conducting structural path analysis on square technological matrices of process or input-output data, using environmental, social and/or financial satellites
 - [OpenIO-Canada](https://github.com/CIRAIG/OpenIO-Canada) - Module to create symmetric Environmentally Extended Input Output tables for Canada.
-- [emission budgets](https://github.com/floriandierickx/emission-budgets) - visualising country-specific carbon budgets
-- [GHG Country Sector](https://github.com/martindaniel4/ghg_country_sector) - Visualization of Greenhouse Gas emissions by Country and Sector
+
+## Life Cycle Assessment
+
+LCA Frameworks (LCA Models or Hybrid LCA-IO Models) that are supporting climate finance through life-cycle analysis of supply chains
+
+- [openLCA](https://github.com/GreenDelta/olca-app) - Source code of openLCA
+- [ecospold2matrix](https://github.com/majeau-bettez/ecospold2matrix) - Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables
 - [VoLCA](https://github.com/ccomb/volca) - Fast open-source LCA engine with API, Python library, CLI, MCP
 - [Brightway](https://github.com/brightway-lca/brightway2) - Brightway2 is a framework for advanced life cycle assessment calculations
 - [Regioinvent](https://github.com/CIRAIG/Regioinvent) - Python class regionalizing processes from the ecoinvent database using trade date from the UN COMTRADE database and common sense
+
+## Other Carbon Footprint
+
+Specific carbon foot-printing methodologies (not EEIO or LCA frameworks)  
+
+- [Cloud Carbon Footprint](https://github.com/cloud-carbon-footprint/cloud-carbon-footprint) - Cloud Carbon Footprint is a tool to estimate energy use (kilowatt-hours) and carbon emissions (metric tons CO2e) from public cloud usage.
+- [AWS Sustainability Insights Framework (SIF)](https://github.com/aws-solutions-library-samples/guidance-for-aws-sustainability-insights-framework) - The AWS Sustainability Insights Framework (SIF) offers foundational software components that accelerate the design and implementation of applications to automate carbon footprint tracking.
+- [Node Carbon](https://github.com/sumn2u/node-carbon) - A Node Package for Measuring Carbon Footprints.
+- [OpenClimate](https://github.com/Open-Earth-Foundation/OpenClimate) - A data utility for tracking climate action.
+- [CityCatalyst](https://github.com/Open-Earth-Foundation/CityCatalyst) - Open Source carbon accounting for cities.
+- [emission budgets](https://github.com/floriandierickx/emission-budgets) - visualising country-specific carbon budgets
+- [GHG Country Sector](https://github.com/martindaniel4/ghg_country_sector) - Visualization of Greenhouse Gas emissions by Country and Sector
 
 ## Integrated Assessment Models
 
@@ -151,8 +162,8 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 #### Other
 
 - [Tazama](https://github.com/frmscoe/) - Open Source Real-Time Transaction Monitoring Software for Fraud and Money Laundering Detection.
-- [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission critical safety and performance.
-- [micro-finance](https://github.com/MicroPyramid/micro-finance) - Free Micro Finance Software.
+- [tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The distributed financial transactions database designed for mission-critical safety and performance.
+- [microfinance](https://github.com/MicroPyramid/micro-finance) - Free Micro Finance Software.
 
 ### Social Vulnerability
 
@@ -179,6 +190,7 @@ This section collects open data sources (API endpoints) with data relevant direc
   
 ## Energy System
 
+- [Scafandre](https://github.com/hubblo-org/scaphandre) - Energy consumption metrology agent.
 - [GEM](https://www.gem.wiki/Main_Page) - GEM Wiki, the shared resource on all things energy: fossil fuels, renewable energy sources, environmental impacts, and the global movement to transition to a clean energy system
 - [electricityMap](https://github.com/electricitymap/electricitymap-contrib) - A real-time visualisation of the CO2 emissions of electricity consumption
   - [electricityMap Data Sources](https://github.com/electricitymap/electricitymap-contrib/blob/master/DATA_SOURCES.md)
