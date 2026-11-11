@@ -1,7 +1,5 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Update Metrics Commit](https://github.com/open-risk/awesome-sustainable-finance/actions/workflows/action.yml/badge.svg)](https://github.com/open-risk/awesome-sustainable-finance/actions/workflows/action.yml)
-
 # Awesome Sustainable Finance
 
 A curated list of **Sustainable Finance** resources. Sustainable finance is here understood broadly, addressing both environmental and social issues.
