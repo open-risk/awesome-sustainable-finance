@@ -35,6 +35,8 @@ As the list grows we may introduce more / different sub-categories. The current 
     - [Financial Inclusion](#financial-inclusion)
     - [Financial Literacy](#financial-literacy)
 - [Open Data](#open-data)
+  - [EEIO Databases](#eeio-databases)
+  - [LCA Databases](#lca-databases)
   - [GHG Emissions](#ghg-emissions)
   - [Energy System](#energy-system)
   - [Other Sustainability Data](#other-sustainability-data)
@@ -173,7 +175,19 @@ MicroFinance Frameworks and tools that support the social pillar of ESG, e.g. th
 
 # Open Data
 
-This section collects open data sources (API endpoints) with data relevant directly or indirectly for sustainable finance workflows
+This section collects open data sources (repositories or API endpoints) with data relevant directly or indirectly for sustainable finance workflows
+
+## EEIO Databases
+
+- [ADB-MRIO](https://kidb.adb.org/) database, the Asian Development Bank's Multi-Regional Input-Output Tables
+- [EXIOBASE](https://zenodo.org/records/23039074) database, developed explicitly to address environmental issues (link may be point to outdated version)
+- [FIGARO](https://ec.europa.eu/eurostat/web/esa-supply-use-input-tables/information-data#figaro) database by Eurostat (Full International and Global Accounts for Research in Input-Output Analysis)
+- [OECD-ICIO](https://www.oecd.org/en/data/datasets/inter-country-input-output-tables.html) database and the Trade in Value Added database
+- [USEEIO](https://catalog.data.gov/dataset/useeio-v2-5-models?from_hint=eyJxIjoiVVNFRUlPIiwic29ydCI6InJlbGV2YW5jZSJ9) database (US Environmentally-Extended Input-Output is a family of models designed to bridge the gap between traditional economic calculations, sustainability, and environmental decision-making (link may be point to outdated version)
+
+## LCA Databases
+
+- [GLAD Elementary Flow Resources](https://github.com/UNEP-Economy-Division/GLAD-ElementaryFlowResources) - This is a repository for elementary flow lists, mapping files, and other resources pertinent to the Global LCA Data Access (GLAD) network initiative and data portal.
 
 ## GHG Emissions
 
