@@ -62,7 +62,7 @@ Frameworks and tools that are *directly* assisting the analysis of financial ope
 
 ## Environmentally Extended Input Output Models
 
-EEIO Frameworks that are supporting climate finance through input-output analysis of economic systems
+EEIO Frameworks that are supporting climate finance through input-output analysis of economic systems. EEIO Databases are listed separately.
 
 - [pymrio](https://github.com/konstantinstadler/pymrio) - Multi-Regional Input-Output Analysis in Python.
 - [PyIO](https://real.illinois.edu/pyio/) - Python Module for Input-Output Analysis.
@@ -80,7 +80,7 @@ EEIO Frameworks that are supporting climate finance through input-output analysi
 
 ## Life Cycle Assessment
 
-LCA Frameworks (LCA Models or Hybrid LCA-IO Models) that are supporting climate finance through life-cycle analysis of supply chains
+LCA Frameworks (LCA Models or Hybrid LCA-IO Models) that are supporting climate finance through life-cycle analysis of supply chains. LCA Databases are listed separately.
 
 - [openLCA](https://github.com/GreenDelta/olca-app) - Source code of openLCA
 - [ecospold2matrix](https://github.com/majeau-bettez/ecospold2matrix) - Class for recasting Ecospold2 LCA dataset into Leontief matrix representations or Supply and Use Tables
