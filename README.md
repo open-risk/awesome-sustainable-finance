@@ -230,6 +230,7 @@ This section collects _open data_ sources distributing data that are relevant di
 - [Energy Incident Register Data](https://energyincidentregister.com/data/) - Index of 2,386 reported energy incidents (battery storage, solar, wind, grid and data centre fires, failures and outages) in 103 countries, as CSV and JSON; incident counts by technology, country and year under CC BY 4.0 ([Zenodo](https://doi.org/10.5281/zenodo.23299419))
 - [PyPSA](https://github.com/PyPSA/PyPSA) - Python for Power System Analysis: an open-source toolbox for simulating and optimizing modern energy and power systems with variable renewable generation.
 - [OEMOF](https://github.com/oemof/oemof) - Open Energy Modelling Framework - Python toolbox for energy system modelling and optimisation
+- [Fingrid Grid Signals](https://github.com/itulo/eu-nordic-open-data-mcp/tree/main/tools/fingrid-grid-signals) - Open-source (MIT) tool for official Fingrid open data (CC BY 4.0) on the Finnish power grid: real-time CO2 emission intensity, consumption, generation, wind and solar forecasts, and low-carbon hour signals
   
 ## Other Sustainability Data
 
