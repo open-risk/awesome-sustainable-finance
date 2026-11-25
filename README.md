@@ -215,6 +215,7 @@ This section collects _open data_ sources distributing data that are relevant di
 - [climate_categories](https://github.com/pik-primap/climate_categories) - Commonly used codes, categories, terminologies, and nomenclatures used in climate policy analysis in a nice Python package. 
 - [Green Steel Tracker](https://www.industrytransition.org/green-steel-tracker/) - LeadIT dataset (CC BY), updated three times a year, tracking low-carbon steel projects with technologies able to reach 85% emissions reduction (below 300 kg CO2 per tonne of steel).
 - [EU ETS](https://www.eea.europa.eu/en/datahub/datahubitem-view/98f04097-26de-4fca-86c4-63834818c0c0) - EEA dataset and [data viewer](https://www.eea.europa.eu/en/analysis/maps-and-charts/emissions-trading-viewer-1-dashboards) of EU ETS verified emissions, allowances and surrendered units, compiled from the European Commission's [Union Registry](https://union-registry-data.ec.europa.eu/report/welcome).
+- [SAEF](https://github.com/guillermollopis/soma-ai-emission-factors) - Energy, CO2e and water emission factors per AI inference request, by model class and cloud region (peer reviewed; v3.0.0 CC BY 4.0)
   
 ## Energy System
 
