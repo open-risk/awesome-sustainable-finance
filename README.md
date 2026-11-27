@@ -236,6 +236,7 @@ This section collects _open data_ sources distributing data that are relevant di
 ## Other Sustainability Data
 
 - [SDG Data Repository (UK)](https://github.com/ONSdigital/sdg-data) - Data repository for SDGs
+- [ORGEL Sustainability Report Index](https://reports.orgel.us/developers) - The latest sustainability report of every S&P 500 company (report name, year, link) as open data: CSV, JSON and an API. CC BY 4.0.
 
 # Related Domains
 
